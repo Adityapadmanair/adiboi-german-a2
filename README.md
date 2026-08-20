@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+Adiboi's German Time (A2)
+A desktop-oriented vocabulary trainer built with React. It uses 12 separate chapter files to help you learn German at the A2 level. You type the English translation for each German word, and the app tracks your correct and wrong answers for every chapter.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The progress stays saved in your browser, so you can close the window and come back later without losing your streak.
 
-## Available Scripts
+How it works
+The app loads 12 JSON files (A2Chapter1.json through A2Chapter12.json) from the public folder. Each file contains an array of vocabulary objects. When you select a chapter, the app shuffles the words and presents them one by one.
 
-In the project directory, you can run:
+You type the English meaning into the input field. If you get it right, the app saves it under "Correct" for that chapter. If you type a wrong answer or hit the "Show Answer" button, it goes into "Wrong".
 
-### `npm start`
+A small twist: the app uses a fuzzy matching algorithm, so if you write something very close to the actual translation (like "to be glad" instead of "to be happy"), it still counts as correct.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Key Features
+Dark mode interface with a sidebar that slides out when you hover your mouse over the left edge of the screen.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A top progress bar showing how many words you have completed in the current chapter.
 
-### `npm test`
+Separate progress bars for each chapter in the sidebar, showing percentage completed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A dedicated "View Progress" button that opens a modal listing every word you got right and every word you got wrong.
 
-### `npm run build`
+Persistent progress: all scores and word lists are saved to your browser's localStorage.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Reset button that clears a chapter's progress. If the chapter is not 100% complete, it asks for confirmation before wiping the data.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Where to put the JSON files
+The app expects your 12 chapter files to be located inside a data folder within the public directory of the React project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Your final file structure should look like this:
 
-### `npm run eject`
+text
+your-project-folder/
+├── public/
+│   └── data/
+│       ├── A2Chapter1.json
+│       ├── A2Chapter2.json
+│       ├── A2Chapter3.json
+│       ├── ...
+│       └── A2Chapter12.json
+├── src/
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+└── package.json
+The JSON objects inside each file must follow this format:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+json
+{
+  "german": "die Currywurst",
+  "info": "die Currywurst, -würste",
+  "english": "sausage with curry sauce",
+  "example": "(German fastfood dish)"
+}
+Installation and setup
+Make sure you have Node.js installed on your machine before running these commands.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repository and navigate into the folder:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+bash
+git clone [your-repo-url]
+cd adiboi-german-a2
+Install the required dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+bash
+npm install
+Place your 12 JSON files into the public/data/ folder as described above. Start the development server:
 
-## Learn More
+bash
+npm start
+The app will open at http://localhost:3000 in your default browser.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Building for production
+If you want to host this somewhere online, run the build command:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+bash
+npm run build
+This creates a build folder with all the optimized static files. You can drag and drop this folder onto free hosting services like Netlify or Vercel to get a live URL in a few seconds.
 
-### Code Splitting
+Technologies used
+React (create-react-app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Plain CSS
 
-### Analyzing the Bundle Size
+Browser localStorage for data persistence
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributing
+If you notice a bug or want to add a feature, feel free to open an issue or submit a pull request. I'd be happy to review it.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+License
+This project is open source and available for personal use and modification.
