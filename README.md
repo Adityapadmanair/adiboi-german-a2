@@ -45,6 +45,9 @@ your-project-folder/
   - index.js
 - package.json
 
+```text
+
+
 The JSON objects inside each file must follow this format:
 
 json
