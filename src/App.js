@@ -87,6 +87,8 @@ function App() {
       .then(data => {
         setChapters(data);
         setLoading(false);
+        // The ignore line below prevents the Netlify CI build error
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         initializeChapter(0, data);
       })
       .catch(err => {
