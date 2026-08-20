@@ -28,20 +28,23 @@ The app expects your 12 chapter files to be located inside a data folder within 
 
 Your final file structure should look like this:
 
-text
+Your project folder should look like this:
+
+```text
 your-project-folder/
-├── public/
-│   └── data/
-│       ├── A2Chapter1.json
-│       ├── A2Chapter2.json
-│       ├── A2Chapter3.json
-│       ├── ...
-│       └── A2Chapter12.json
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-└── package.json
+- public/
+  - data/
+    - A2Chapter1.json
+    - A2Chapter2.json
+    - A2Chapter3.json
+    - ...
+    - A2Chapter12.json
+- src/
+  - App.js
+  - App.css
+  - index.js
+- package.json
+
 The JSON objects inside each file must follow this format:
 
 json
@@ -51,6 +54,7 @@ json
   "english": "sausage with curry sauce",
   "example": "(German fastfood dish)"
 }
+
 Installation and setup
 Make sure you have Node.js installed on your machine before running these commands.
 
