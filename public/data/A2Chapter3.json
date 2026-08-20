@@ -1,0 +1,764 @@
+[
+  {
+    "german": "die Vorliebe",
+    "info": "-n",
+    "english": "preference",
+    "example": ""
+  },
+  {
+    "german": "anklicken",
+    "info": "",
+    "english": "to click",
+    "example": ""
+  },
+  {
+    "german": "bloggen",
+    "info": "",
+    "english": "to blog",
+    "example": ""
+  },
+  {
+    "german": "checken",
+    "info": "(Ich checke täglich meine E-Mails.)",
+    "english": "to check",
+    "example": "(I check my email daily.)"
+  },
+  {
+    "german": "die Datei",
+    "info": "-en",
+    "english": "file",
+    "example": ""
+  },
+  {
+    "german": "downloaden",
+    "info": "",
+    "english": "to download",
+    "example": ""
+  },
+  {
+    "german": "herunterladen",
+    "info": "(lädt herunter, hat heruntergeladen)",
+    "english": "to download",
+    "example": ""
+  },
+  {
+    "german": "das Online-Netzwerk",
+    "info": "-e",
+    "english": "online network",
+    "example": ""
+  },
+  {
+    "german": "posten",
+    "info": "",
+    "english": "to post",
+    "example": ""
+  },
+  {
+    "german": "das/der Radio",
+    "info": "-s",
+    "english": "radio",
+    "example": ""
+  },
+  {
+    "german": "simsen",
+    "info": "",
+    "english": "to text",
+    "example": ""
+  },
+  {
+    "german": "skypen",
+    "info": "",
+    "english": "to skype",
+    "example": ""
+  },
+  {
+    "german": "das Video",
+    "info": "-s",
+    "english": "video",
+    "example": ""
+  },
+  {
+    "german": "die Medien",
+    "info": "(Plural)",
+    "english": "media",
+    "example": ""
+  },
+  {
+    "german": "der Bildschirm",
+    "info": "-e",
+    "english": "screen, monitor",
+    "example": ""
+  },
+  {
+    "german": "das CD-Laufwerk",
+    "info": "-e",
+    "english": "CD drive",
+    "example": ""
+  },
+  {
+    "german": "die CD-ROM",
+    "info": "-s",
+    "english": "CD-ROM",
+    "example": ""
+  },
+  {
+    "german": "der Drucker",
+    "info": "-",
+    "english": "printer",
+    "example": ""
+  },
+  {
+    "german": "das DVD-Laufwerk",
+    "info": "-e",
+    "english": "DVD drive",
+    "example": ""
+  },
+  {
+    "german": "der Lautsprecher",
+    "info": "-",
+    "english": "speaker",
+    "example": ""
+  },
+  {
+    "german": "die Maus",
+    "info": "die Maus, Mäuse",
+    "english": "mouse",
+    "example": ""
+  },
+  {
+    "german": "das Papier",
+    "info": "-e",
+    "english": "paper",
+    "example": ""
+  },
+  {
+    "german": "der/das Tablet",
+    "info": "-s",
+    "english": "tablet",
+    "example": ""
+  },
+  {
+    "german": "die Tastatur",
+    "info": "-en",
+    "english": "keyboard",
+    "example": ""
+  },
+  {
+    "german": "die Web-Cam",
+    "info": "-s",
+    "english": "webcam",
+    "example": ""
+  },
+  {
+    "german": "beide",
+    "info": "",
+    "english": "both",
+    "example": ""
+  },
+  {
+    "german": "das E-Book",
+    "info": "-s",
+    "english": "e-book",
+    "example": ""
+  },
+  {
+    "german": "das Fernsehgerät",
+    "info": "-e",
+    "english": "television set",
+    "example": ""
+  },
+  {
+    "german": "der I-Pod",
+    "info": "-s",
+    "english": "iPod",
+    "example": ""
+  },
+  {
+    "german": "das Smartphone",
+    "info": "-s",
+    "english": "smartphone",
+    "example": ""
+  },
+  {
+    "german": "die Spielekonsole",
+    "info": "-n",
+    "english": "video game console",
+    "example": ""
+  },
+  {
+    "german": "häufig",
+    "info": "",
+    "english": "often",
+    "example": ""
+  },
+  {
+    "german": "selten",
+    "info": "",
+    "english": "rarely",
+    "example": ""
+  },
+  {
+    "german": "der Laptop",
+    "info": "-s",
+    "english": "laptop",
+    "example": ""
+  },
+  {
+    "german": "genauso",
+    "info": "",
+    "english": "just as",
+    "example": ""
+  },
+  {
+    "german": "die Umfrage",
+    "info": "-n",
+    "english": "survey, poll",
+    "example": ""
+  },
+  {
+    "german": "wie",
+    "info": "",
+    "english": "as",
+    "example": "(My cell phone is just as important for me as my PC.)"
+  },
+  {
+    "german": "zurzeit",
+    "info": "",
+    "english": "currently",
+    "example": ""
+  },
+  {
+    "german": "die Web-Adresse",
+    "info": "-n",
+    "english": "web address, URL",
+    "example": ""
+  },
+  {
+    "german": "wünschen",
+    "info": "(sich)",
+    "english": "to wish",
+    "example": ""
+  },
+  {
+    "german": "flüstern",
+    "info": "",
+    "english": "to whisper",
+    "example": ""
+  },
+  {
+    "german": "der/die Letzte",
+    "info": "-n",
+    "english": "last, final",
+    "example": ""
+  },
+  {
+    "german": "das Ohr",
+    "info": "-en",
+    "english": "ear",
+    "example": ""
+  },
+  {
+    "german": "die Runde",
+    "info": "-n",
+    "english": "round",
+    "example": ""
+  },
+  {
+    "german": "still",
+    "info": "",
+    "english": "silently",
+    "example": ""
+  },
+  {
+    "german": "weiterflüstern",
+    "info": "",
+    "english": "to whisper on",
+    "example": ""
+  },
+  {
+    "german": "an sein",
+    "info": "",
+    "english": "to be on",
+    "example": ""
+  },
+  {
+    "german": "aufpassen",
+    "info": "",
+    "english": "to pay attention",
+    "example": ""
+  },
+  {
+    "german": "dass",
+    "info": "",
+    "english": "that",
+    "example": ""
+  },
+  {
+    "german": "die Gefahr",
+    "info": "-en",
+    "english": "danger",
+    "example": ""
+  },
+  {
+    "german": "der/die Kriminelle",
+    "info": "-n",
+    "english": "criminal",
+    "example": ""
+  },
+  {
+    "german": "manche",
+    "info": "",
+    "english": "some",
+    "example": ""
+  },
+  {
+    "german": "die Meinung",
+    "info": "-en",
+    "english": "opinion",
+    "example": ""
+  },
+  {
+    "german": "möglich",
+    "info": "",
+    "english": "possible",
+    "example": ""
+  },
+  {
+    "german": "das Netz",
+    "info": "(Singular)",
+    "english": "web",
+    "example": "(Don't put too much information on the web!)"
+  },
+  {
+    "german": "nicht nur",
+    "info": "",
+    "english": "not only",
+    "example": ""
+  },
+  {
+    "german": "privat",
+    "info": "",
+    "english": "private",
+    "example": ""
+  },
+  {
+    "german": "stellen",
+    "info": "",
+    "english": "to place, put",
+    "example": "(Many young people put very private information on the web.)"
+  },
+  {
+    "german": "überall",
+    "info": "",
+    "english": "everywhere",
+    "example": ""
+  },
+  {
+    "german": "verbringen",
+    "info": "(verbringt, hat verbracht)",
+    "english": "to spend (time)",
+    "example": ""
+  },
+  {
+    "german": "vorsichtig",
+    "info": "",
+    "english": "carefully",
+    "example": ""
+  },
+  {
+    "german": "zusammenarbeiten",
+    "info": "",
+    "english": "to work together",
+    "example": ""
+  },
+  {
+    "german": "froh",
+    "info": "",
+    "english": "glad, relieved",
+    "example": ""
+  },
+  {
+    "german": "gefährlich",
+    "info": "",
+    "english": "dangerous(ly)",
+    "example": ""
+  },
+  {
+    "german": "nützlich",
+    "info": "",
+    "english": "useful(ly)",
+    "example": ""
+  },
+  {
+    "german": "sicher",
+    "info": "",
+    "english": "sure, safe",
+    "example": ""
+  },
+  {
+    "german": "der Buchverlag",
+    "info": "-e",
+    "english": "book publisher",
+    "example": ""
+  },
+  {
+    "german": "der Fußballer",
+    "info": "-",
+    "english": "soccer player",
+    "example": ""
+  },
+  {
+    "german": "der Fußballprofi",
+    "info": "-s",
+    "english": "soccer pro",
+    "example": ""
+  },
+  {
+    "german": "kompliziert",
+    "info": "",
+    "english": "complicated(ly)",
+    "example": ""
+  },
+  {
+    "german": "der Lieblingsverein",
+    "info": "-e",
+    "english": "favorite team",
+    "example": ""
+  },
+  {
+    "german": "das Porträt",
+    "info": "-s",
+    "english": "portrait, profile",
+    "example": ""
+  },
+  {
+    "german": "das Produkt",
+    "info": "-e",
+    "english": "product",
+    "example": ""
+  },
+  {
+    "german": "der Rapper",
+    "info": "-",
+    "english": "rapper",
+    "example": ""
+  },
+  {
+    "german": "das Shooting",
+    "info": "-s",
+    "english": "shooting (film)",
+    "example": ""
+  },
+  {
+    "german": "das Stadion",
+    "info": "das Stadion, Stadien",
+    "english": "stadium",
+    "example": ""
+  },
+  {
+    "german": "der Traumberuf",
+    "info": "-e",
+    "english": "dream job",
+    "example": ""
+  },
+  {
+    "german": "die Werbung",
+    "info": "-en",
+    "english": "advertisement",
+    "example": ""
+  },
+  {
+    "german": "die Lösung",
+    "info": "-en",
+    "english": "solution",
+    "example": ""
+  },
+  {
+    "german": "berühmt",
+    "info": "",
+    "english": "famous",
+    "example": ""
+  },
+  {
+    "german": "das Dingsbums",
+    "info": "(Singular)",
+    "english": "thingy",
+    "example": ""
+  },
+  {
+    "german": "der Actionfilm",
+    "info": "-e",
+    "english": "action movie",
+    "example": ""
+  },
+  {
+    "german": "der Fantasy-Film",
+    "info": "-e",
+    "english": "fantasy movie",
+    "example": ""
+  },
+  {
+    "german": "die Komödie",
+    "info": "-n",
+    "english": "comedy",
+    "example": ""
+  },
+  {
+    "german": "lachen",
+    "info": "",
+    "english": "to laugh",
+    "example": ""
+  },
+  {
+    "german": "der Lieblingsschauspieler",
+    "info": "-",
+    "english": "favorite actor",
+    "example": ""
+  },
+  {
+    "german": "die Romanze",
+    "info": "-n",
+    "english": "romance",
+    "example": ""
+  },
+  {
+    "german": "der Thriller",
+    "info": "-",
+    "english": "thriller",
+    "example": ""
+  },
+  {
+    "german": "weinen",
+    "info": "",
+    "english": "to cry",
+    "example": ""
+  },
+  {
+    "german": "der Ausländer",
+    "info": "-",
+    "english": "foreigner",
+    "example": ""
+  },
+  {
+    "german": "der Enkel",
+    "info": "-",
+    "english": "grandchild",
+    "example": ""
+  },
+  {
+    "german": "der Gastarbeiter",
+    "info": "-",
+    "english": "guest worker",
+    "example": ""
+  },
+  {
+    "german": "gehen",
+    "info": "(geht, ist gegangen)",
+    "english": "here: to be about",
+    "example": "(The film is about a family from Turkey.)"
+  },
+  {
+    "german": "die Heimat",
+    "info": "(Singular)",
+    "english": "homeland, hometown",
+    "example": ""
+  },
+  {
+    "german": "der Kleinbus",
+    "info": "-se",
+    "english": "minibus",
+    "example": ""
+  },
+  {
+    "german": "der Konflikt",
+    "info": "-e",
+    "english": "conflict",
+    "example": ""
+  },
+  {
+    "german": "das Lachen",
+    "info": "(Singular)",
+    "english": "laughter",
+    "example": ""
+  },
+  {
+    "german": "lustig machen",
+    "info": "(sich) (über + Akk.)",
+    "english": "to mock, make fun of",
+    "example": "(The movie mocks prejudices.)"
+  },
+  {
+    "german": "die Sechzigerjahre",
+    "info": "(Plural)",
+    "english": "1960s",
+    "example": ""
+  },
+  {
+    "german": "skeptisch",
+    "info": "",
+    "english": "skeptical(ly)",
+    "example": ""
+  },
+  {
+    "german": "die Versöhnung",
+    "info": "-en",
+    "english": "redemption",
+    "example": ""
+  },
+  {
+    "german": "das Vorurteil",
+    "info": "-e",
+    "english": "prejudice",
+    "example": ""
+  },
+  {
+    "german": "wenigstens",
+    "info": "",
+    "english": "at least",
+    "example": ""
+  },
+  {
+    "german": "der Zuschauer",
+    "info": "-",
+    "english": "viewer, spectator",
+    "example": ""
+  },
+  {
+    "german": "aktuell",
+    "info": "",
+    "english": "current",
+    "example": ""
+  },
+  {
+    "german": "der Durchschnitt",
+    "info": "-e",
+    "english": "average",
+    "example": ""
+  },
+  {
+    "german": "eher",
+    "info": "",
+    "english": "rather",
+    "example": ""
+  },
+  {
+    "german": "empfehlenswert",
+    "info": "",
+    "english": "recommendable",
+    "example": ""
+  },
+  {
+    "german": "die Handlung",
+    "info": "-en",
+    "english": "plot, action",
+    "example": ""
+  },
+  {
+    "german": "der Hauptdarsteller",
+    "info": "-",
+    "english": "leading actor",
+    "example": ""
+  },
+  {
+    "german": "das Highlight",
+    "info": "-s",
+    "english": "highlight",
+    "example": ""
+  },
+  {
+    "german": "das Klischee",
+    "info": "-s",
+    "english": "cliche",
+    "example": ""
+  },
+  {
+    "german": "realistisch",
+    "info": "",
+    "english": "realistic",
+    "example": ""
+  },
+  {
+    "german": "der Schauspieler",
+    "info": "-",
+    "english": "actor",
+    "example": ""
+  },
+  {
+    "german": "spannend",
+    "info": "",
+    "english": "exciting, suspenseful",
+    "example": ""
+  },
+  {
+    "german": "spielen",
+    "info": "",
+    "english": "here: to be set in",
+    "example": "(The movie is set in Turkey.)"
+  },
+  {
+    "german": "der Stern",
+    "info": "-e",
+    "english": "star",
+    "example": ""
+  },
+  {
+    "german": "sympathisch",
+    "info": "",
+    "english": "likeable",
+    "example": ""
+  },
+  {
+    "german": "die Szene",
+    "info": "-n",
+    "english": "scene",
+    "example": ""
+  },
+  {
+    "german": "die Formulierung",
+    "info": "-en",
+    "english": "formulation, wording",
+    "example": ""
+  },
+  {
+    "german": "logisch",
+    "info": "",
+    "english": "logical",
+    "example": ""
+  },
+  {
+    "german": "weitere",
+    "info": "",
+    "english": "further",
+    "example": ""
+  },
+  {
+    "german": "die Beschreibung",
+    "info": "-en",
+    "english": "description",
+    "example": ""
+  },
+  {
+    "german": "zuletzt",
+    "info": "",
+    "english": "lastly",
+    "example": ""
+  },
+  {
+    "german": "neugierig",
+    "info": "",
+    "english": "curious",
+    "example": ""
+  },
+  {
+    "german": "verwenden",
+    "info": "",
+    "english": "to use, employ",
+    "example": ""
+  },
+  {
+    "german": "dazu",
+    "info": "",
+    "english": "thereto",
+    "example": ""
+  }
+]

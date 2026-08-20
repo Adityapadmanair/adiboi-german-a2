@@ -1,0 +1,728 @@
+[
+  {
+    "german": "Paragliding",
+    "info": "(ohne Artikel)",
+    "english": "paragliding",
+    "example": ""
+  },
+  {
+    "german": "Parkour",
+    "info": "",
+    "english": "parkour",
+    "example": ""
+  },
+  {
+    "german": "reiten",
+    "info": "(reitet, ist geritten)",
+    "english": "horseback riding",
+    "example": ""
+  },
+  {
+    "german": "das Schneeschuhwandern",
+    "info": "(Singular)",
+    "english": "snowshoe hiking",
+    "example": ""
+  },
+  {
+    "german": "sportlich",
+    "info": "",
+    "english": "sporty",
+    "example": ""
+  },
+  {
+    "german": "tauchen",
+    "info": "(taucht, ist getaucht)",
+    "english": "to dive",
+    "example": ""
+  },
+  {
+    "german": "das Yoga",
+    "info": "(Singular)",
+    "english": "yoga",
+    "example": ""
+  },
+  {
+    "german": "der Gleitschirm",
+    "info": "-e",
+    "english": "paraglider",
+    "example": ""
+  },
+  {
+    "german": "der Reithelm",
+    "info": "-e",
+    "english": "riding helmet",
+    "example": ""
+  },
+  {
+    "german": "der Schneeschuh",
+    "info": "-e",
+    "english": "snowshoe",
+    "example": ""
+  },
+  {
+    "german": "die Taucherbrille",
+    "info": "-n",
+    "english": "diving mask",
+    "example": ""
+  },
+  {
+    "german": "die Yogamatte",
+    "info": "-n",
+    "english": "yoga mat",
+    "example": ""
+  },
+  {
+    "german": "die Luft",
+    "info": "(meist Singular)",
+    "english": "air",
+    "example": "(I am in the air, I'm flying!)"
+  },
+  {
+    "german": "die Mauer",
+    "info": "-n",
+    "english": "wall",
+    "example": ""
+  },
+  {
+    "german": "der Muskel",
+    "info": "-n",
+    "english": "muscle",
+    "example": ""
+  },
+  {
+    "german": "das Pferd",
+    "info": "-e",
+    "english": "horse",
+    "example": ""
+  },
+  {
+    "german": "der Schirm",
+    "info": "-e",
+    "english": "parachute",
+    "example": "(I am jumping out of the airplane; hopefully the parachute will open.)"
+  },
+  {
+    "german": "das Tier",
+    "info": "-e",
+    "english": "animal",
+    "example": ""
+  },
+  {
+    "german": "der Wald",
+    "info": "Wälder",
+    "english": "forest",
+    "example": ""
+  },
+  {
+    "german": "der Yogakurs",
+    "info": "-e",
+    "english": "yoga class",
+    "example": ""
+  },
+  {
+    "german": "die Sportart",
+    "info": "-en",
+    "english": "sport type",
+    "example": ""
+  },
+  {
+    "german": "der Fallschirm",
+    "info": "-e",
+    "english": "parachute",
+    "example": ""
+  },
+  {
+    "german": "springen",
+    "info": "(springt, ist gesprungen)",
+    "english": "to jump",
+    "example": "(I have parachute jumped before.)"
+  },
+  {
+    "german": "der Sportgegenstand",
+    "info": "-gegenstände",
+    "english": "sports equipment",
+    "example": ""
+  },
+  {
+    "german": "der Fan",
+    "info": "-s",
+    "english": "fan",
+    "example": ""
+  },
+  {
+    "german": "der Fanartikel",
+    "info": "-",
+    "english": "team merchandise",
+    "example": ""
+  },
+  {
+    "german": "der Fußballschal",
+    "info": "-s",
+    "english": "soccer club scarf",
+    "example": ""
+  },
+  {
+    "german": "der Fußballfan",
+    "info": "-s",
+    "english": "soccer fan",
+    "example": ""
+  },
+  {
+    "german": "die Begeisterung",
+    "info": "(Singular)",
+    "english": "enthusiasm",
+    "example": ""
+  },
+  {
+    "german": "die Enttäuschung",
+    "info": "-en",
+    "english": "disappointment",
+    "example": ""
+  },
+  {
+    "german": "hoffen",
+    "info": "",
+    "english": "to hope",
+    "example": ""
+  },
+  {
+    "german": "die Hoffnung",
+    "info": "-en",
+    "english": "hope",
+    "example": ""
+  },
+  {
+    "german": "die Topform",
+    "info": "(Singular)",
+    "english": "top form, peak condition",
+    "example": ""
+  },
+  {
+    "german": "der Wahnsinn",
+    "info": "(Singular)",
+    "english": "madness, insanity",
+    "example": ""
+  },
+  {
+    "german": "die Niederlage",
+    "info": "-n",
+    "english": "defeat",
+    "example": ""
+  },
+  {
+    "german": "der Sieg",
+    "info": "-e",
+    "english": "victory",
+    "example": ""
+  },
+  {
+    "german": "die Lieblingsmannschaft",
+    "info": "-en",
+    "english": "favorite team",
+    "example": ""
+  },
+  {
+    "german": "der Lieblingssportler",
+    "info": "-",
+    "english": "favorite athlete",
+    "example": ""
+  },
+  {
+    "german": "verlieren",
+    "info": "(verliert, hat verloren)",
+    "english": "to lose",
+    "example": ""
+  },
+  {
+    "german": "das Bällchen",
+    "info": "-",
+    "english": "ball",
+    "example": ""
+  },
+  {
+    "german": "begeistert",
+    "info": "",
+    "english": "enthusiastic",
+    "example": ""
+  },
+  {
+    "german": "sich benehmen",
+    "info": "(benimmt sich, hat sich benommen)",
+    "english": "to behave",
+    "example": ""
+  },
+  {
+    "german": "die Chance",
+    "info": "-n",
+    "english": "chance, opportunity",
+    "example": ""
+  },
+  {
+    "german": "die Folge",
+    "info": "-n",
+    "english": "result, consequence",
+    "example": ""
+  },
+  {
+    "german": "die Konsequenz",
+    "info": "-en",
+    "english": "consequence",
+    "example": ""
+  },
+  {
+    "german": "kritisch",
+    "info": "",
+    "english": "critical(ly)",
+    "example": ""
+  },
+  {
+    "german": "die Mannschaft",
+    "info": "-en",
+    "english": "team",
+    "example": ""
+  },
+  {
+    "german": "das Tor",
+    "info": "-e",
+    "english": "goal",
+    "example": "(Great goals were made at the soccer game.)"
+  },
+  {
+    "german": "treu",
+    "info": "",
+    "english": "loyal(ly)",
+    "example": "(Stay loyal to us.)"
+  },
+  {
+    "german": "das Vorbild",
+    "info": "-er",
+    "english": "role model",
+    "example": ""
+  },
+  {
+    "german": "der Widerspruch",
+    "info": "-sprüche",
+    "english": "contradiction, opposition",
+    "example": ""
+  },
+  {
+    "german": "schießen",
+    "info": "(schießt, hat geschossen)",
+    "english": "to shoot",
+    "example": ""
+  },
+  {
+    "german": "der Musiker",
+    "info": "-",
+    "english": "musician",
+    "example": ""
+  },
+  {
+    "german": "der Sportler",
+    "info": "-",
+    "english": "athlete",
+    "example": ""
+  },
+  {
+    "german": "die Unterscheidung",
+    "info": "-en",
+    "english": "distinction, difference",
+    "example": ""
+  },
+  {
+    "german": "auf",
+    "info": "(Auf zum Sport!)",
+    "english": "on",
+    "example": "(On to sports!)"
+  },
+  {
+    "german": "lassen",
+    "info": "(lässt, hat gelassen)",
+    "english": "to let, allow",
+    "example": "(Let me think!)"
+  },
+  {
+    "german": "die Kondition",
+    "info": "(Singular)",
+    "english": "conditioning",
+    "example": ""
+  },
+  {
+    "german": "vorschlagen",
+    "info": "(schlägt vor, hat vorgeschlagen)",
+    "english": "to suggest",
+    "example": ""
+  },
+  {
+    "german": "ablehnen",
+    "info": "",
+    "english": "to decline",
+    "example": ""
+  },
+  {
+    "german": "da",
+    "info": "",
+    "english": "here",
+    "example": "(Here, I have a suggestion...)"
+  },
+  {
+    "german": "halten",
+    "info": "(hält, hat gehalten)",
+    "english": "to hold, think about",
+    "example": "(What do you think about my idea?)"
+  },
+  {
+    "german": "reagieren",
+    "info": "(auf + Akk.)",
+    "english": "to react",
+    "example": ""
+  },
+  {
+    "german": "die Reaktion",
+    "info": "-en",
+    "english": "reaction",
+    "example": ""
+  },
+  {
+    "german": "der Vorschlag",
+    "info": "Vorschläge",
+    "english": "suggestion, recommendation",
+    "example": ""
+  },
+  {
+    "german": "zustimmen",
+    "info": "",
+    "english": "to agree",
+    "example": ""
+  },
+  {
+    "german": "ausleihen",
+    "info": "(leiht aus, hat ausgeliehen)",
+    "english": "to borrow",
+    "example": ""
+  },
+  {
+    "german": "balancieren",
+    "info": "",
+    "english": "to balance",
+    "example": ""
+  },
+  {
+    "german": "der Hochseilgarten",
+    "info": "-gärten",
+    "english": "high ropes course",
+    "example": ""
+  },
+  {
+    "german": "die Info",
+    "info": "-s",
+    "english": "information",
+    "example": ""
+  },
+  {
+    "german": "der Profi",
+    "info": "-s",
+    "english": "professional",
+    "example": ""
+  },
+  {
+    "german": "die Übersicht",
+    "info": "-en",
+    "english": "overview",
+    "example": ""
+  },
+  {
+    "german": "das Kärtchen",
+    "info": "-",
+    "english": "card",
+    "example": ""
+  },
+  {
+    "german": "der Stapel",
+    "info": "-",
+    "english": "deck of cards",
+    "example": ""
+  },
+  {
+    "german": "die Art",
+    "info": "-en",
+    "english": "type",
+    "example": ""
+  },
+  {
+    "german": "der Geocache",
+    "info": "-s",
+    "english": "geocache",
+    "example": ""
+  },
+  {
+    "german": "geografisch",
+    "info": "",
+    "english": "geographically",
+    "example": ""
+  },
+  {
+    "german": "das GPS-Gerät",
+    "info": "-e",
+    "english": "GPS device",
+    "example": ""
+  },
+  {
+    "german": "die Koordinate",
+    "info": "-n",
+    "english": "coordinate",
+    "example": ""
+  },
+  {
+    "german": "sogenannt",
+    "info": "",
+    "english": "so-called",
+    "example": ""
+  },
+  {
+    "german": "das Versteck",
+    "info": "-e",
+    "english": "hiding place",
+    "example": ""
+  },
+  {
+    "german": "verstecken",
+    "info": "",
+    "english": "to hide",
+    "example": ""
+  },
+  {
+    "german": "der Baum",
+    "info": "Bäume",
+    "english": "tree",
+    "example": ""
+  },
+  {
+    "german": "der Behälter",
+    "info": "-",
+    "english": "container",
+    "example": ""
+  },
+  {
+    "german": "der Cache",
+    "info": "-s",
+    "english": "cache",
+    "example": ""
+  },
+  {
+    "german": "die Dose",
+    "info": "-n",
+    "english": "jar, can, canister",
+    "example": ""
+  },
+  {
+    "german": "die Erde",
+    "info": "(Singular)",
+    "english": "earth",
+    "example": ""
+  },
+  {
+    "german": "das Gelände",
+    "info": "-",
+    "english": "landscape",
+    "example": ""
+  },
+  {
+    "german": "der Geocache-Behälter",
+    "info": "-e",
+    "english": "geocache container",
+    "example": ""
+  },
+  {
+    "german": "der Geocache-Inhalt",
+    "info": "-e",
+    "english": "geocache contents",
+    "example": ""
+  },
+  {
+    "german": "der Geocacher",
+    "info": "-",
+    "english": "geocacher",
+    "example": ""
+  },
+  {
+    "german": "gleichzeitig",
+    "info": "",
+    "english": "simultaneous(ly)",
+    "example": ""
+  },
+  {
+    "german": "das Grad",
+    "info": "-e",
+    "english": "degree",
+    "example": ""
+  },
+  {
+    "german": "hineinlegen",
+    "info": "",
+    "english": "to insert",
+    "example": ""
+  },
+  {
+    "german": "die Höhle",
+    "info": "-n",
+    "english": "cave",
+    "example": ""
+  },
+  {
+    "german": "die Internetadresse",
+    "info": "-n",
+    "english": "internet address, URL",
+    "example": ""
+  },
+  {
+    "german": "jeweilig",
+    "info": "",
+    "english": "respective",
+    "example": ""
+  },
+  {
+    "german": "kaputtgehen",
+    "info": "(geht kaputt, ist kaputtgegangen)",
+    "english": "to break, to fall apart",
+    "example": ""
+  },
+  {
+    "german": "das Loch",
+    "info": "Löcher",
+    "english": "hole",
+    "example": ""
+  },
+  {
+    "german": "das Logbuch",
+    "info": "-bücher",
+    "english": "log book",
+    "example": ""
+  },
+  {
+    "german": "die Minustemperaturen",
+    "info": "(Plural)",
+    "english": "temperatures below freezing",
+    "example": ""
+  },
+  {
+    "german": "der Multicache",
+    "info": "-s",
+    "english": "multicache",
+    "example": ""
+  },
+  {
+    "german": "die Natur",
+    "info": "(Singular)",
+    "english": "nature",
+    "example": ""
+  },
+  {
+    "german": "die Naturwanderung",
+    "info": "-en",
+    "english": "nature hike",
+    "example": ""
+  },
+  {
+    "german": "die Pflanze",
+    "info": "-n",
+    "english": "plant",
+    "example": ""
+  },
+  {
+    "german": "das Plastik",
+    "info": "(Singular)",
+    "english": "plastic",
+    "example": ""
+  },
+  {
+    "german": "die Plastikdose",
+    "info": "-n",
+    "english": "plastic canister",
+    "example": ""
+  },
+  {
+    "german": "schützen",
+    "info": "",
+    "english": "to protect",
+    "example": ""
+  },
+  {
+    "german": "stabil",
+    "info": "",
+    "english": "sturdy, stable",
+    "example": ""
+  },
+  {
+    "german": "die Temperatur",
+    "info": "-en",
+    "english": "temperature",
+    "example": ""
+  },
+  {
+    "german": "der Tresor",
+    "info": "-e",
+    "english": "vault, safe",
+    "example": ""
+  },
+  {
+    "german": "und so weiter (usw.)",
+    "info": "",
+    "english": "and so on (etc.)",
+    "example": ""
+  },
+  {
+    "german": "versteckt",
+    "info": "",
+    "english": "hidden",
+    "example": ""
+  },
+  {
+    "german": "versuchen",
+    "info": "",
+    "english": "to attempt",
+    "example": ""
+  },
+  {
+    "german": "wasserdicht",
+    "info": "",
+    "english": "waterproof",
+    "example": ""
+  },
+  {
+    "german": "weiterlesen",
+    "info": "(liest weiter, hat weitergelesen)",
+    "english": "to read on",
+    "example": ""
+  },
+  {
+    "german": "zu sein",
+    "info": "",
+    "english": "to be closed",
+    "example": ""
+  },
+  {
+    "german": "das Kongresszentrum",
+    "info": "-zentren",
+    "english": "convention center",
+    "example": ""
+  },
+  {
+    "german": "das Kulturzentrum",
+    "info": "-zentren",
+    "english": "cultural center",
+    "example": ""
+  },
+  {
+    "german": "bauen",
+    "info": "",
+    "english": "to build",
+    "example": ""
+  },
+  {
+    "german": "die Besonderheit",
+    "info": "-en",
+    "english": "special feature",
+    "example": ""
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "german": "aber",
+    "info": "(Hillfst du mir?- Aber gern.)",
+    "english": "here: but",
+    "example": "(Will you help me?- But gladly.)"
+  },
+  {
+    "german": "auBern",
+    "info": "die Currywurst,-wurste",
+    "english": "to express",
+    "example": ""
+  },
+  {
+    "german": "die Currywurst",
+    "info": "die Currywurst,-würste",
+    "english": "sausage with curry sauce",
+    "example": "(German fastfood dish)"
+  },
+  {
+    "german": "decken",
+    "info": "(Deck doch schon mal den Tisch.)",
+    "english": "to set (a table)",
+    "example": "(Set the table already.)"
+  },
+  {
+    "german": "doch",
+    "info": "(Willst du nicht probieren?- Doch, gern.)",
+    "english": "Yes, of course",
+    "example": "(Don't you want to try?- Yes, of course, gladly.)"
+  },
+  {
+    "german": "der Durst",
+    "info": "Noun (Singular)",
+    "english": "thirst",
+    "example": ""
+  },
+  {
+    "german": "egal",
+    "info": "",
+    "english": "all the same",
+    "example": ""
+  },
+  {
+    "german": "einfach",
+    "info": "(Das muss einfach sein!)",
+    "english": "here: just, simply",
+    "example": "(It just has to be!)"
+  },
+  {
+    "german": "fett",
+    "info": "(Currywurst ist so fett.)",
+    "english": "fatty",
+    "example": ""
+  },
+  {
+    "german": "geben",
+    "info": "(gibt, hat gegeben)",
+    "english": "to give",
+    "example": "(Can you give me the bread, please?)"
+  },
+  {
+    "german": "das Gefühl",
+    "info": "das Gefühl, -e",
+    "english": "feeling",
+    "example": ""
+  },
+  {
+    "german": "der Hunger",
+    "info": "(Singular)",
+    "english": "hunger",
+    "example": ""
+  },
+  {
+    "german": "Mensch",
+    "info": "(ohne Artikel, Singular) (Mensch, habe ich einen Hunger!)",
+    "english": "Oh man!",
+    "example": "(exclamation)"
+  },
+  {
+    "german": "die Mikrowelle",
+    "info": "die Mikrowelle, -n",
+    "english": "microwave",
+    "example": ""
+  },
+  {
+    "german": "rauf",
+    "info": "",
+    "english": "up",
+    "example": ""
+  },
+  {
+    "german": "riechen",
+    "info": "(riecht, hat gerochen)",
+    "english": "to smell",
+    "example": ""
+  },
+  {
+    "german": "schon",
+    "info": "",
+    "english": "already",
+    "example": ""
+  },
+  {
+    "german": "was",
+    "info": "(etwas)",
+    "english": "something",
+    "example": "(We'll soon get something.)"
+  },
+  {
+    "german": "schlecht",
+    "info": "",
+    "english": "bad",
+    "example": ""
+  },
+  {
+    "german": "superlecker",
+    "info": "",
+    "english": "very tasty",
+    "example": ""
+  },
+  {
+    "german": "bitter",
+    "info": "",
+    "english": "batter",
+    "example": ""
+  },
+  {
+    "german": "fett",
+    "info": "(Ungesundes Essen macht fett.)",
+    "english": "fat",
+    "example": "(Unhealthy food makes you fat.)"
+  },
+  {
+    "german": "salzig",
+    "info": "",
+    "english": "salty",
+    "example": ""
+  },
+  {
+    "german": "sauer",
+    "info": "(saurer, am sauersten)",
+    "english": "sour",
+    "example": "(Lemons taste very sour.)"
+  },
+  {
+    "german": "scharf",
+    "info": "(scharfer, am scharfsten)",
+    "english": "spicy",
+    "example": ""
+  },
+  {
+    "german": "süß",
+    "info": "",
+    "english": "sweet",
+    "example": ""
+  },
+  {
+    "german": "die Mensa",
+    "info": "die Mensa, Mensen",
+    "english": "cafeteria",
+    "example": ""
+  },
+  {
+    "german": "der Kochkurs",
+    "info": "der Kochkurs, -e",
+    "english": "cooking class",
+    "example": ""
+  },
+  {
+    "german": "die Pfanne",
+    "info": "die Pfanne, -n",
+    "english": "pan",
+    "example": ""
+  },
+  {
+    "german": "das Sieb",
+    "info": "das Sieb, -e",
+    "english": "sieve",
+    "example": ""
+  },
+  {
+    "german": "der Topf",
+    "info": "der Topf, Töpfe",
+    "english": "pot",
+    "example": ""
+  },
+  {
+    "german": "die Zeichnung",
+    "info": "die Zeichnung, -en",
+    "english": "drawing",
+    "example": ""
+  },
+  {
+    "german": "backen",
+    "info": "(backt, hat gebacken)",
+    "english": "to bake",
+    "example": ""
+  },
+  {
+    "german": "begrüßen",
+    "info": "",
+    "english": "to greet",
+    "example": ""
+  },
+  {
+    "german": "das Kochbuch",
+    "info": "das Kochbuch, -bücher",
+    "english": "cookbook",
+    "example": ""
+  },
+  {
+    "german": "der Teilnehmer",
+    "info": "der Teilnehmer, -",
+    "english": "participant",
+    "example": ""
+  },
+  {
+    "german": "nachher",
+    "info": "",
+    "english": "afterward",
+    "example": ""
+  },
+  {
+    "german": "stellen",
+    "info": "(Luisa stellt viele Fragen.)",
+    "english": "to pose (questions)",
+    "example": ""
+  },
+  {
+    "german": "die Ausbildung",
+    "info": "die Ausbildung, -en",
+    "english": "training",
+    "example": ""
+  },
+  {
+    "german": "je",
+    "info": "",
+    "english": "each",
+    "example": ""
+  },
+  {
+    "german": "der Onkel",
+    "info": "der Onkel, -",
+    "english": "uncle",
+    "example": ""
+  },
+  {
+    "german": "interviewen",
+    "info": "",
+    "english": "to interview",
+    "example": ""
+  },
+  {
+    "german": "das Fernsehen",
+    "info": "(Singular)",
+    "english": "television",
+    "example": ""
+  },
+  {
+    "german": "kommen",
+    "info": "(kommt, ist gekommen)",
+    "english": "to be on, to be shown",
+    "example": "(What's on TV today?)"
+  },
+  {
+    "german": "nix",
+    "info": "(nichts)",
+    "english": "nothing",
+    "example": "(sl.)"
+  },
+  {
+    "german": "sehen",
+    "info": "(sieht, hat gesehen)",
+    "english": "to see",
+    "example": "(Let's see what's on TV today.)"
+  },
+  {
+    "german": "stören",
+    "info": "",
+    "english": "to bother, disturb",
+    "example": ""
+  },
+  {
+    "german": "ausruhen",
+    "info": "(sich)",
+    "english": "to rest",
+    "example": ""
+  },
+  {
+    "german": "das Geschirr",
+    "info": "(Singular)",
+    "english": "dishes",
+    "example": ""
+  },
+  {
+    "german": "spülen",
+    "info": "",
+    "english": "to rinse",
+    "example": ""
+  },
+  {
+    "german": "aber",
+    "info": "(Da ärgert sich aber jemand!)",
+    "english": "here: but really",
+    "example": "(Someone's going to be angry!)"
+  },
+  {
+    "german": "sich ärgern",
+    "info": "(über + Akk.)",
+    "english": "to be angry",
+    "example": ""
+  },
+  {
+    "german": "sich aufregen",
+    "info": "(über + Akk.)",
+    "english": "to be upset, angry",
+    "example": ""
+  },
+  {
+    "german": "sich beeilen",
+    "info": "",
+    "english": "to hurry",
+    "example": ""
+  },
+  {
+    "german": "sich langweilen",
+    "info": "",
+    "english": "to be bored",
+    "example": ""
+  },
+  {
+    "german": "anmachen",
+    "info": "",
+    "english": "to turn on",
+    "example": ""
+  },
+  {
+    "german": "die Bohne",
+    "info": "die Bohne, -n",
+    "english": "bean",
+    "example": ""
+  },
+  {
+    "german": "extra",
+    "info": "",
+    "english": "specially",
+    "example": ""
+  },
+  {
+    "german": "das Gute",
+    "info": "(Singular)",
+    "english": "good",
+    "example": "(Is something good on TV today?)"
+  },
+  {
+    "german": "das Rindfleisch",
+    "info": "(Singular)",
+    "english": "beef",
+    "example": ""
+  },
+  {
+    "german": "formulieren",
+    "info": "",
+    "english": "to formulate",
+    "example": ""
+  },
+  {
+    "german": "sich freuen",
+    "info": "",
+    "english": "to be happy",
+    "example": ""
+  },
+  {
+    "german": "traurig",
+    "info": "",
+    "english": "sad",
+    "example": ""
+  },
+  {
+    "german": "folgen",
+    "info": "(folgt, ist gefolgt)",
+    "english": "to follow",
+    "example": ""
+  },
+  {
+    "german": "begründen",
+    "info": "",
+    "english": "to justify",
+    "example": ""
+  },
+  {
+    "german": "vermuten",
+    "info": "",
+    "english": "to suspect, surmise",
+    "example": ""
+  },
+  {
+    "german": "weil",
+    "info": "",
+    "english": "because",
+    "example": ""
+  },
+  {
+    "german": "wirklich",
+    "info": "(Wie war es wirklich?)",
+    "english": "really",
+    "example": "(How was it really?)"
+  },
+  {
+    "german": "weitergehen",
+    "info": "(geht weiter, ist weitergegangen)",
+    "english": "to continue",
+    "example": ""
+  },
+  {
+    "german": "vorspielen",
+    "info": "",
+    "english": "to act out",
+    "example": ""
+  },
+  {
+    "german": "das Dunkeldinner",
+    "info": "",
+    "english": "dining in the dark",
+    "example": ""
+  },
+  {
+    "german": "benutzen",
+    "info": "",
+    "english": "to use",
+    "example": ""
+  },
+  {
+    "german": "blind",
+    "info": "",
+    "english": "blind",
+    "example": ""
+  },
+  {
+    "german": "die Dunkelheit",
+    "info": "(Singular)",
+    "english": "darkness",
+    "example": ""
+  },
+  {
+    "german": "das Dunkle",
+    "info": "(Singular)",
+    "english": "dark",
+    "example": "(What is hard about eating in the dark?)"
+  },
+  {
+    "german": "der Eindruck",
+    "info": "der Eindruck, Eindrücke",
+    "english": "impression",
+    "example": ""
+  },
+  {
+    "german": "erkennen",
+    "info": "(erkennt, hat erkannt)",
+    "english": "to recognize",
+    "example": ""
+  },
+  {
+    "german": "das Erlebnis",
+    "info": "das Erlebnis, -se",
+    "english": "experience",
+    "example": ""
+  },
+  {
+    "german": "fahren",
+    "info": "(Ich führe dich an der Hand.)",
+    "english": "to guide",
+    "example": "(I'll guide you by the hand.)"
+  },
+  {
+    "german": "gar",
+    "info": "",
+    "english": "here: at all",
+    "example": ""
+  },
+  {
+    "german": "der Gastraum",
+    "info": "der Gastraum, -räume",
+    "english": "dining room (in a restaurant)",
+    "example": ""
+  },
+  {
+    "german": "der Gedanke",
+    "info": "der Gedanke, -n",
+    "english": "thought",
+    "example": ""
+  },
+  {
+    "german": "genau",
+    "info": "(Ich weiß nicht so genau.)",
+    "english": "exactly",
+    "example": "(I don't know exactly.)"
+  },
+  {
+    "german": "der Geruch",
+    "info": "der Geruch, Gerüche",
+    "english": "smell",
+    "example": ""
+  },
+  {
+    "german": "sich gewöhnen",
+    "info": "(an + Akk.)",
+    "english": "to accustom, get used to",
+    "example": ""
+  },
+  {
+    "german": "das Licht",
+    "info": "das Licht, -er",
+    "english": "light",
+    "example": ""
+  },
+  {
+    "german": "das Menü",
+    "info": "das Menü, -s",
+    "english": "three-course meal (in a restaurant)",
+    "example": ""
+  },
+  {
+    "german": "nur noch",
+    "info": "",
+    "english": "only",
+    "example": ""
+  },
+  {
+    "german": "rauchen",
+    "info": "",
+    "english": "to smoke",
+    "example": ""
+  },
+  {
+    "german": "schwierig",
+    "info": "",
+    "english": "difficult, hard",
+    "example": ""
+  },
+  {
+    "german": "sehbehindert",
+    "info": "",
+    "english": "vision-impaired",
+    "example": ""
+  },
+  {
+    "german": "die Sorge",
+    "info": "die Sorge, -n",
+    "english": "worry",
+    "example": ""
+  },
+  {
+    "german": "verboten",
+    "info": "",
+    "english": "forbidden",
+    "example": ""
+  },
+  {
+    "german": "völlig",
+    "info": "",
+    "english": "completely, totally",
+    "example": ""
+  },
+  {
+    "german": "der Vorraum",
+    "info": "der Vorraum, -räume",
+    "english": "lobby, anteroom",
+    "example": ""
+  },
+  {
+    "german": "zahlen",
+    "info": "",
+    "english": "to count",
+    "example": ""
+  },
+  {
+    "german": "abwechselnd",
+    "info": "",
+    "english": "alternatingly",
+    "example": ""
+  },
+  {
+    "german": "das Dunkelrestaurant",
+    "info": "das Dunkelrestaurant, -s",
+    "english": "restaurant without lights, blind restaurant",
+    "example": ""
+  },
+  {
+    "german": "das Ergebnis",
+    "info": "das Ergebnis, -se",
+    "english": "outcome, result",
+    "example": ""
+  },
+  {
+    "german": "gemeinsam",
+    "info": "",
+    "english": "together",
+    "example": ""
+  },
+  {
+    "german": "der Sinn",
+    "info": "der Sinn, -e",
+    "english": "sense",
+    "example": "(Learn with all your senses.)"
+  },
+  {
+    "german": "die Station",
+    "info": "die Station, -en",
+    "english": "station",
+    "example": ""
+  },
+  {
+    "german": "vorbereiten",
+    "info": "(Tobi bereitet einen Salat vor.)",
+    "english": "to prepare",
+    "example": "(Tobi prepares a salad.)"
+  },
+  {
+    "german": "aufmachen",
+    "info": "",
+    "english": "to open",
+    "example": ""
+  },
+  {
+    "german": "das Auge",
+    "info": "das Auge, -n",
+    "english": "eye",
+    "example": ""
+  },
+  {
+    "german": "der Beutel",
+    "info": "der Beutel, -",
+    "english": "bag",
+    "example": ""
+  },
+  {
+    "german": "die Blume",
+    "info": "die Blume, -n",
+    "english": "flower",
+    "example": ""
+  },
+  {
+    "german": "das Bonbon",
+    "info": "das Bonbon, -s",
+    "english": "piece of candy",
+    "example": ""
+  },
+  {
+    "german": "der Gegenstand",
+    "info": "der Gegenstand, -stände",
+    "english": "item, article, subject",
+    "example": ""
+  },
+  {
+    "german": "herausnehmen",
+    "info": "(nimmt heraus, hat herausgenommen)",
+    "english": "to take out",
+    "example": ""
+  },
+  {
+    "german": "das Parfum",
+    "info": "das Parfum, -e/-s",
+    "english": "perfume",
+    "example": ""
+  },
+  {
+    "german": "der Stoffbeutel",
+    "info": "der Stoffbeutel, -",
+    "english": "cloth bag",
+    "example": ""
+  },
+  {
+    "german": "weitermachen",
+    "info": "",
+    "english": "to continue",
+    "example": ""
+  },
+  {
+    "german": "der Zitronensaft",
+    "info": "der Zitronensaft, -säfte",
+    "english": "lemon juice",
+    "example": ""
+  },
+  {
+    "german": "zu",
+    "info": "(Augen zu!)",
+    "english": "closed",
+    "example": "(Eyes closed!)"
+  },
+  {
+    "german": "zuhaben",
+    "info": "(hat zu, hat zugehabt)",
+    "english": "to be closed",
+    "example": ""
+  },
+  {
+    "german": "zumachen",
+    "info": "",
+    "english": "to close",
+    "example": ""
+  },
+  {
+    "german": "sich erinnern",
+    "info": "(an + Akk.)",
+    "english": "to remember",
+    "example": ""
+  }
+]

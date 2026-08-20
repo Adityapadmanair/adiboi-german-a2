@@ -1,0 +1,974 @@
+[
+  {
+    "german": "der Anwalt",
+    "info": "Anwälte",
+    "english": "lawyer",
+    "example": ""
+  },
+  {
+    "german": "föhnen",
+    "info": "",
+    "english": "to blow-dry",
+    "example": ""
+  },
+  {
+    "german": "der Grafiker",
+    "info": "-",
+    "english": "graphic designer",
+    "example": ""
+  },
+  {
+    "german": "der Hammer",
+    "info": "-",
+    "english": "hammer",
+    "example": ""
+  },
+  {
+    "german": "der Tischler",
+    "info": "-",
+    "english": "carpenter",
+    "example": ""
+  },
+  {
+    "german": "die Tönung",
+    "info": "-en",
+    "english": "tint, tone",
+    "example": ""
+  },
+  {
+    "german": "die Schere",
+    "info": "-n",
+    "english": "scissors",
+    "example": ""
+  },
+  {
+    "german": "die Handbewegung",
+    "info": "-en",
+    "english": "hand gesture",
+    "example": ""
+  },
+  {
+    "german": "die Geschäftsreise",
+    "info": "-n",
+    "english": "business trip",
+    "example": ""
+  },
+  {
+    "german": "das Abteil",
+    "info": "-e",
+    "english": "compartment",
+    "example": ""
+  },
+  {
+    "german": "die Bahncard",
+    "info": "-s",
+    "english": "train discount card",
+    "example": ""
+  },
+  {
+    "german": "besitzen",
+    "info": "(besitzt, hat besessen)",
+    "english": "to own",
+    "example": ""
+  },
+  {
+    "german": "die Hinfahrt",
+    "info": "-en",
+    "english": "outbound trip",
+    "example": ""
+  },
+  {
+    "german": "kurz",
+    "info": "",
+    "english": "shortly",
+    "example": "(We are arriving shortly after twelve.)"
+  },
+  {
+    "german": "die Rückfahrt",
+    "info": "-en",
+    "english": "return trip",
+    "example": ""
+  },
+  {
+    "german": "die Abfahrt",
+    "info": "-en",
+    "english": "departure",
+    "example": ""
+  },
+  {
+    "german": "die Bahn",
+    "info": "-en",
+    "english": "train",
+    "example": ""
+  },
+  {
+    "german": "der Bahnsteig",
+    "info": "-e",
+    "english": "train platform",
+    "example": ""
+  },
+  {
+    "german": "die Durchsage",
+    "info": "-n",
+    "english": "announcement",
+    "example": ""
+  },
+  {
+    "german": "der Fahrplan",
+    "info": "-pläne",
+    "english": "timetable, schedule",
+    "example": ""
+  },
+  {
+    "german": "das Gepäck",
+    "info": "(Singular)",
+    "english": "baggage, luggage",
+    "example": ""
+  },
+  {
+    "german": "das Gleis",
+    "info": "-e",
+    "english": "track",
+    "example": ""
+  },
+  {
+    "german": "die Information",
+    "info": "-en",
+    "english": "here: information desk",
+    "example": "(I am going to the information desk at the train station.)"
+  },
+  {
+    "german": "der Schalter",
+    "info": "-",
+    "english": "counter",
+    "example": ""
+  },
+  {
+    "german": "der Waggon",
+    "info": "-s/-e",
+    "english": "train car",
+    "example": ""
+  },
+  {
+    "german": "die Zugverbindung",
+    "info": "-en",
+    "english": "train connection",
+    "example": ""
+  },
+  {
+    "german": "die Auskunft",
+    "info": "Auskünfte",
+    "english": "here: information desk",
+    "example": ""
+  },
+  {
+    "german": "der Bahn-Mitarbeiter",
+    "info": "-",
+    "english": "train employee",
+    "example": ""
+  },
+  {
+    "german": "einfach",
+    "info": "",
+    "english": "here: one-way",
+    "example": "(One way, or to and back?)"
+  },
+  {
+    "german": "der Fahrgast",
+    "info": "-gäste",
+    "english": "passenger",
+    "example": ""
+  },
+  {
+    "german": "der Fahrkartenschalter",
+    "info": "-",
+    "english": "ticket booth",
+    "example": ""
+  },
+  {
+    "german": "der Gang",
+    "info": "Gänge",
+    "english": "aisle",
+    "example": "(Aisle or window?)"
+  },
+  {
+    "german": "der Großraumwagen",
+    "info": "-/-wägen",
+    "english": "open coach",
+    "example": ""
+  },
+  {
+    "german": "hin",
+    "info": "",
+    "english": "to",
+    "example": "(I want a ticket to and back.)"
+  },
+  {
+    "german": "die Klasse",
+    "info": "(Singular)",
+    "english": "class",
+    "example": "(Do you want to ride first class?)"
+  },
+  {
+    "german": "das Abend-Programm",
+    "info": "-e",
+    "english": "evening program",
+    "example": ""
+  },
+  {
+    "german": "die Dame",
+    "info": "-n",
+    "english": "lady",
+    "example": ""
+  },
+  {
+    "german": "entspannt",
+    "info": "",
+    "english": "relaxed",
+    "example": ""
+  },
+  {
+    "german": "die Ermäßigung",
+    "info": "-en",
+    "english": "discount",
+    "example": ""
+  },
+  {
+    "german": "erwarten",
+    "info": "",
+    "english": "to await, expect",
+    "example": ""
+  },
+  {
+    "german": "fantastisch",
+    "info": "",
+    "english": "fantastic(ly)",
+    "example": ""
+  },
+  {
+    "german": "fit",
+    "info": "(fitter, am fittesten)",
+    "english": "fit, in shape",
+    "example": ""
+  },
+  {
+    "german": "früher",
+    "info": "",
+    "english": "formerly, in the past",
+    "example": ""
+  },
+  {
+    "german": "die Geschichte",
+    "info": "(Singular)",
+    "english": "history, story",
+    "example": "(The history of Wiesbaden is really exciting.)"
+  },
+  {
+    "german": "großartig",
+    "info": "",
+    "english": "great, grand, terrific",
+    "example": ""
+  },
+  {
+    "german": "die Kultur",
+    "info": "-en",
+    "english": "culture",
+    "example": ""
+  },
+  {
+    "german": "live",
+    "info": "",
+    "english": "live",
+    "example": ""
+  },
+  {
+    "german": "das Musikereignis",
+    "info": "-se",
+    "english": "musical event",
+    "example": ""
+  },
+  {
+    "german": "die Reservierung",
+    "info": "-en",
+    "english": "reservation",
+    "example": ""
+  },
+  {
+    "german": "der Sänger",
+    "info": "-",
+    "english": "singer",
+    "example": ""
+  },
+  {
+    "german": "der Senior",
+    "info": "-en",
+    "english": "senior",
+    "example": ""
+  },
+  {
+    "german": "die Show",
+    "info": "-s",
+    "english": "show",
+    "example": ""
+  },
+  {
+    "german": "hübsch",
+    "info": "",
+    "english": "pretty",
+    "example": ""
+  },
+  {
+    "german": "verrückt",
+    "info": "",
+    "english": "crazy",
+    "example": ""
+  },
+  {
+    "german": "antik",
+    "info": "",
+    "english": "antique",
+    "example": ""
+  },
+  {
+    "german": "arbeitslos",
+    "info": "",
+    "english": "unemployed",
+    "example": ""
+  },
+  {
+    "german": "der Arztkittel",
+    "info": "-",
+    "english": "lab coat",
+    "example": ""
+  },
+  {
+    "german": "bereuen",
+    "info": "",
+    "english": "to regret",
+    "example": ""
+  },
+  {
+    "german": "der Berufswechsel",
+    "info": "-",
+    "english": "career change",
+    "example": ""
+  },
+  {
+    "german": "der Elektrokonzern",
+    "info": "-",
+    "english": "electronics company",
+    "example": ""
+  },
+  {
+    "german": "erfolgreich",
+    "info": "",
+    "english": "successful",
+    "example": ""
+  },
+  {
+    "german": "sich erfüllen",
+    "info": "",
+    "english": "to fulfill",
+    "example": ""
+  },
+  {
+    "german": "der Fernfahrer",
+    "info": "-",
+    "english": "trucker",
+    "example": ""
+  },
+  {
+    "german": "die Freiheit",
+    "info": "-en",
+    "english": "freedom",
+    "example": ""
+  },
+  {
+    "german": "gegen",
+    "info": "(+ Akk.)",
+    "english": "here: for",
+    "example": "(Markus trades his lab coat for overalls.)"
+  },
+  {
+    "german": "gestalten",
+    "info": "",
+    "english": "to shape, fashion",
+    "example": ""
+  },
+  {
+    "german": "gründen",
+    "info": "",
+    "english": "to found",
+    "example": ""
+  },
+  {
+    "german": "der Herzchirurg",
+    "info": "-en",
+    "english": "heart surgeon",
+    "example": ""
+  },
+  {
+    "german": "die Herzchirurgie",
+    "info": "-n",
+    "english": "cardiac surgery",
+    "example": ""
+  },
+  {
+    "german": "das Herzzentrum",
+    "info": "-zentren",
+    "english": "cardiac center",
+    "example": ""
+  },
+  {
+    "german": "die Industriekauffrau",
+    "info": "-en",
+    "english": "industrial businesswoman",
+    "example": ""
+  },
+  {
+    "german": "der Lastwagen",
+    "info": "-/-wägen",
+    "english": "truck",
+    "example": ""
+  },
+  {
+    "german": "der Leiter",
+    "info": "-",
+    "english": "leader, director",
+    "example": ""
+  },
+  {
+    "german": "die Medizin",
+    "info": "(Singular)",
+    "english": "medicine",
+    "example": ""
+  },
+  {
+    "german": "die Möbelwerkstatt",
+    "info": "-stätten",
+    "english": "furniture workshop",
+    "example": ""
+  },
+  {
+    "german": "der Oberarzt",
+    "info": "-ärzte",
+    "english": "senior physician",
+    "example": ""
+  },
+  {
+    "german": "der Operationssaal",
+    "info": "-säle",
+    "english": "operating room",
+    "example": ""
+  },
+  {
+    "german": "der Overall",
+    "info": "-s",
+    "english": "overalls",
+    "example": ""
+  },
+  {
+    "german": "plötzlich",
+    "info": "",
+    "english": "suddenly",
+    "example": ""
+  },
+  {
+    "german": "das Schmuckstück",
+    "info": "-e",
+    "english": "piece of jewelry",
+    "example": ""
+  },
+  {
+    "german": "die Tischlerei",
+    "info": "-en",
+    "english": "carpenter's woodshop",
+    "example": ""
+  },
+  {
+    "german": "das Universitätsspital",
+    "info": "-e",
+    "english": "university hospital",
+    "example": ""
+  },
+  {
+    "german": "werden",
+    "info": "(wird, wurde, ist geworden)",
+    "english": "to become",
+    "example": "(Then she suddenly became unemployed.)"
+  },
+  {
+    "german": "die Parallele",
+    "info": "-n",
+    "english": "parallel",
+    "example": ""
+  },
+  {
+    "german": "die Altersangabe",
+    "info": "-n",
+    "english": "age indication",
+    "example": ""
+  },
+  {
+    "german": "der Berufswunsch",
+    "info": "-wünsche",
+    "english": "career goal",
+    "example": ""
+  },
+  {
+    "german": "der Arbeitsort",
+    "info": "-e",
+    "english": "work location",
+    "example": ""
+  },
+  {
+    "german": "der Aspekt",
+    "info": "-e",
+    "english": "aspect",
+    "example": ""
+  },
+  {
+    "german": "folgend",
+    "info": "",
+    "english": "following",
+    "example": ""
+  },
+  {
+    "german": "der Tiertrainer",
+    "info": "-",
+    "english": "animal trainer",
+    "example": ""
+  },
+  {
+    "german": "der Autor",
+    "info": "-en",
+    "english": "author",
+    "example": ""
+  },
+  {
+    "german": "sich aufstellen",
+    "info": "",
+    "english": "to set up, establish",
+    "example": ""
+  },
+  {
+    "german": "hinten",
+    "info": "",
+    "english": "behind",
+    "example": ""
+  },
+  {
+    "german": "hintereinander",
+    "info": "",
+    "english": "successively",
+    "example": ""
+  },
+  {
+    "german": "der Schritt",
+    "info": "-e",
+    "english": "step",
+    "example": ""
+  },
+  {
+    "german": "vorn",
+    "info": "",
+    "english": "forward",
+    "example": ""
+  },
+  {
+    "german": "der Lkw",
+    "info": "-s",
+    "english": "truck",
+    "example": ""
+  },
+  {
+    "german": "fahren",
+    "info": "(Sina führt ein Gespräch mit ihrem Chef.)",
+    "english": "to conduct, lead",
+    "example": "(Sina conducts a conversation with her boss.)"
+  },
+  {
+    "german": "das Telefongespräch",
+    "info": "-e",
+    "english": "telephone conversation",
+    "example": ""
+  },
+  {
+    "german": "sich vorstellen",
+    "info": "",
+    "english": "here: to imagine",
+    "example": "(Just imagine, I missed the bus twice today.)"
+  },
+  {
+    "german": "ausschalten",
+    "info": "",
+    "english": "to turn off",
+    "example": ""
+  },
+  {
+    "german": "bereitlegen",
+    "info": "",
+    "english": "to lay ready",
+    "example": ""
+  },
+  {
+    "german": "deutlich",
+    "info": "",
+    "english": "distinctly",
+    "example": ""
+  },
+  {
+    "german": "hektisch",
+    "info": "",
+    "english": "hectic",
+    "example": ""
+  },
+  {
+    "german": "sich konzentrieren",
+    "info": "(auf + Akk.)",
+    "english": "to concentrate",
+    "example": ""
+  },
+  {
+    "german": "lächeln",
+    "info": "",
+    "english": "to smile",
+    "example": ""
+  },
+  {
+    "german": "das Lächeln",
+    "info": "(Singular)",
+    "english": "smile",
+    "example": ""
+  },
+  {
+    "german": "die Ruhe",
+    "info": "(Singular)",
+    "english": "quiet, calm",
+    "example": ""
+  },
+  {
+    "german": "der Stift",
+    "info": "-e",
+    "english": "pencil",
+    "example": ""
+  },
+  {
+    "german": "verlaufen",
+    "info": "(verläuft, ist verlaufen)",
+    "english": "to proceed, run, go",
+    "example": "(The conversation is going well.)"
+  },
+  {
+    "german": "sich vorbereiten",
+    "info": "(auf + Akk.)",
+    "english": "to prepare",
+    "example": "(Prepare yourself for the conversation.)"
+  },
+  {
+    "german": "ausrichten",
+    "info": "",
+    "english": "to leave a message",
+    "example": ""
+  },
+  {
+    "german": "außer",
+    "info": "",
+    "english": "out, outside",
+    "example": "(Ms. Sommer is out of the house today.)"
+  },
+  {
+    "german": "die Durchwahl",
+    "info": "-en",
+    "english": "phone extension",
+    "example": ""
+  },
+  {
+    "german": "hinterlassen",
+    "info": "(hinterlässt, hat hinterlassen)",
+    "english": "to leave behind",
+    "example": ""
+  },
+  {
+    "german": "verbinden",
+    "info": "(mit + Dat.) (verbindet, hat verbunden)",
+    "english": "to connect",
+    "example": "(Could you please connect me with Mr. Winter?)"
+  },
+  {
+    "german": "zurückrufen",
+    "info": "(ruft zurück, hat zurückgerufen)",
+    "english": "to call back",
+    "example": ""
+  },
+  {
+    "german": "informiert",
+    "info": "",
+    "english": "informed",
+    "example": ""
+  },
+  {
+    "german": "der Arbeitsalltag",
+    "info": "(Singular)",
+    "english": "workday",
+    "example": ""
+  },
+  {
+    "german": "das Arbeitsleben",
+    "info": "(Singular)",
+    "english": "professional life",
+    "example": ""
+  },
+  {
+    "german": "die Arbeitsteilung",
+    "info": "(Singular)",
+    "english": "division of labor",
+    "example": ""
+  },
+  {
+    "german": "das Arbeitsverhältnis",
+    "info": "-se",
+    "english": "working relationship",
+    "example": ""
+  },
+  {
+    "german": "der Austausch",
+    "info": "(Singular)",
+    "english": "exchange",
+    "example": ""
+  },
+  {
+    "german": "die Balance",
+    "info": "(Singular)",
+    "english": "balance",
+    "example": ""
+  },
+  {
+    "german": "bestimmen",
+    "info": "",
+    "english": "to determine",
+    "example": ""
+  },
+  {
+    "german": "betreuen",
+    "info": "",
+    "english": "here: to lead",
+    "example": ""
+  },
+  {
+    "german": "der Betreuungsplatz",
+    "info": "-plätze",
+    "english": "child care facility",
+    "example": ""
+  },
+  {
+    "german": "dabei",
+    "info": "",
+    "english": "here: with this",
+    "example": ""
+  },
+  {
+    "german": "dadurch",
+    "info": "",
+    "english": "here: because of this",
+    "example": ""
+  },
+  {
+    "german": "damit",
+    "info": "",
+    "english": "here: despite this",
+    "example": ""
+  },
+  {
+    "german": "erreichbar",
+    "info": "",
+    "english": "reachable",
+    "example": ""
+  },
+  {
+    "german": "existieren",
+    "info": "",
+    "english": "to exist",
+    "example": ""
+  },
+  {
+    "german": "die Fähigkeit",
+    "info": "-en",
+    "english": "capability, skill",
+    "example": ""
+  },
+  {
+    "german": "familienfreundlich",
+    "info": "",
+    "english": "family-friendly",
+    "example": ""
+  },
+  {
+    "german": "die Flexibilität",
+    "info": "(Singular)",
+    "english": "flexibility",
+    "example": ""
+  },
+  {
+    "german": "freiwillig",
+    "info": "",
+    "english": "voluntarily",
+    "example": ""
+  },
+  {
+    "german": "die Hierarchie",
+    "info": "-n",
+    "english": "hierarchy",
+    "example": ""
+  },
+  {
+    "german": "die Internetverbindung",
+    "info": "-en",
+    "english": "internet connection",
+    "example": ""
+  },
+  {
+    "german": "die Kooperation",
+    "info": "-en",
+    "english": "cooperation",
+    "example": ""
+  },
+  {
+    "german": "sich kümmern",
+    "info": "(um + Akk.)",
+    "english": "to take care of",
+    "example": ""
+  },
+  {
+    "german": "lebenslang",
+    "info": "",
+    "english": "lifelong",
+    "example": ""
+  },
+  {
+    "german": "mehrere",
+    "info": "",
+    "english": "several",
+    "example": ""
+  },
+  {
+    "german": "möglichst",
+    "info": "",
+    "english": "preferably",
+    "example": ""
+  },
+  {
+    "german": "nutzen",
+    "info": "",
+    "english": "to make use of",
+    "example": ""
+  },
+  {
+    "german": "die Position",
+    "info": "-en",
+    "english": "position, role",
+    "example": ""
+  },
+  {
+    "german": "die Projektarbeit",
+    "info": "-en",
+    "english": "project work",
+    "example": ""
+  },
+  {
+    "german": "qualifizieren",
+    "info": "",
+    "english": "here: to be qualified",
+    "example": ""
+  },
+  {
+    "german": "selbstständig",
+    "info": "",
+    "english": "self-sufficient",
+    "example": ""
+  },
+  {
+    "german": "die Sicherheit",
+    "info": "-en",
+    "english": "security",
+    "example": ""
+  },
+  {
+    "german": "starr",
+    "info": "",
+    "english": "rigid",
+    "example": ""
+  },
+  {
+    "german": "die Teamarbeit",
+    "info": "-en",
+    "english": "teamwork",
+    "example": ""
+  },
+  {
+    "german": "die Telefonkonferenz",
+    "info": "-en",
+    "english": "conference call",
+    "example": ""
+  },
+  {
+    "german": "unmodern",
+    "info": "",
+    "english": "old-fashioned",
+    "example": ""
+  },
+  {
+    "german": "die Verbindung",
+    "info": "-en",
+    "english": "connection",
+    "example": ""
+  },
+  {
+    "german": "die Vernetzung",
+    "info": "-en",
+    "english": "network",
+    "example": ""
+  },
+  {
+    "german": "verschwinden",
+    "info": "(verschwindet, ist verschwunden)",
+    "english": "to disappear",
+    "example": ""
+  },
+  {
+    "german": "die Videokonferenz",
+    "info": "-en",
+    "english": "video conference",
+    "example": ""
+  },
+  {
+    "german": "das Wissen",
+    "info": "(Singular)",
+    "english": "knowledge",
+    "example": ""
+  },
+  {
+    "german": "zunehmen",
+    "info": "(nimmt zu, hat zugenommen)",
+    "english": "to increase",
+    "example": "(Teamwork is becoming more important everywhere.)"
+  },
+  {
+    "german": "zurechtkommen",
+    "info": "(kommt zurecht, ist zurechtgekommen)",
+    "english": "to cope",
+    "example": ""
+  },
+  {
+    "german": "sich austauschen",
+    "info": "(über + Akk.)",
+    "english": "to trade",
+    "example": ""
+  },
+  {
+    "german": "das Schlüsselwort",
+    "info": "-wörter",
+    "english": "keyword",
+    "example": ""
+  }
+]

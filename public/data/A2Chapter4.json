@@ -1,0 +1,848 @@
+[
+  {
+    "german": "das Abiturzeugnis",
+    "info": "-se",
+    "english": "high school diploma, baccalaureate",
+    "example": ""
+  },
+  {
+    "german": "die Babykleidung",
+    "info": "-en",
+    "english": "baby clothes",
+    "example": ""
+  },
+  {
+    "german": "das Bedauern",
+    "info": "(Singular)",
+    "english": "regret",
+    "example": ""
+  },
+  {
+    "german": "der Blumenstrauß",
+    "info": "-sträuße",
+    "english": "bouquet",
+    "example": ""
+  },
+  {
+    "german": "das Ereignis",
+    "info": "-se",
+    "english": "result",
+    "example": ""
+  },
+  {
+    "german": "erraten",
+    "info": "(errät, hat erraten)",
+    "english": "to guess",
+    "example": ""
+  },
+  {
+    "german": "die Freude",
+    "info": "-n",
+    "english": "joy",
+    "example": ""
+  },
+  {
+    "german": "der Führerschein",
+    "info": "-",
+    "english": "driver's license",
+    "example": ""
+  },
+  {
+    "german": "die Führerscheinprüfung",
+    "info": "-en",
+    "english": "driver's license exam",
+    "example": ""
+  },
+  {
+    "german": "die Geburt",
+    "info": "-en",
+    "english": "birth",
+    "example": ""
+  },
+  {
+    "german": "die Hochzeit",
+    "info": "-en",
+    "english": "wedding",
+    "example": ""
+  },
+  {
+    "german": "das Jubiläum",
+    "info": "Jubiläen",
+    "english": "anniversary",
+    "example": ""
+  },
+  {
+    "german": "die Medaille",
+    "info": "-n",
+    "english": "medal",
+    "example": ""
+  },
+  {
+    "german": "der Platz",
+    "info": "Plätze",
+    "english": "place",
+    "example": "(Tom won first place.)"
+  },
+  {
+    "german": "der Ring",
+    "info": "-e",
+    "english": "ring",
+    "example": ""
+  },
+  {
+    "german": "der Schultag",
+    "info": "-e",
+    "english": "school day",
+    "example": ""
+  },
+  {
+    "german": "die Schultüte",
+    "info": "-n",
+    "english": "cone-shaped cardboard flute filled with candy to celebrate the first day of school",
+    "example": ""
+  },
+  {
+    "german": "der Storch",
+    "info": "Störche",
+    "english": "stork",
+    "example": ""
+  },
+  {
+    "german": "die Absage",
+    "info": "-n",
+    "english": "cancellation",
+    "example": ""
+  },
+  {
+    "german": "das Brautpaar",
+    "info": "-e",
+    "english": "bride and groom",
+    "example": ""
+  },
+  {
+    "german": "die Dankeskarte",
+    "info": "-n",
+    "english": "thank-you card",
+    "example": ""
+  },
+  {
+    "german": "der Glückwunsch",
+    "info": "-wünsche",
+    "english": "congratulation",
+    "example": ""
+  },
+  {
+    "german": "die Glückwunschkarte",
+    "info": "-n",
+    "english": "congratulation card",
+    "example": ""
+  },
+  {
+    "german": "gratulieren",
+    "info": "",
+    "english": "to congratulate",
+    "example": ""
+  },
+  {
+    "german": "heiraten",
+    "info": "",
+    "english": "to marry",
+    "example": ""
+  },
+  {
+    "german": "die Karte",
+    "info": "-n",
+    "english": "card",
+    "example": "(I am writing a card with congratulations.)"
+  },
+  {
+    "german": "das Liebe",
+    "info": "(Singular)",
+    "english": "here: best",
+    "example": "(I wish you all the best for your wedding.)"
+  },
+  {
+    "german": "der Traum",
+    "info": "Träume",
+    "english": "dream",
+    "example": ""
+  },
+  {
+    "german": "der Ausdruck",
+    "info": "Ausdrücke",
+    "english": "expression",
+    "example": ""
+  },
+  {
+    "german": "aussprechen",
+    "info": "(spricht aus, hat ausgesprochen)",
+    "english": "to pronounce",
+    "example": ""
+  },
+  {
+    "german": "sich bedanken",
+    "info": "(bei + Dat.)",
+    "english": "to thank",
+    "example": ""
+  },
+  {
+    "german": "die Geburtstagsfeier",
+    "info": "-n",
+    "english": "birthday celebration",
+    "example": ""
+  },
+  {
+    "german": "danken",
+    "info": "",
+    "english": "to thank",
+    "example": ""
+  },
+  {
+    "german": "der Kreis",
+    "info": "-e",
+    "english": "circle",
+    "example": ""
+  },
+  {
+    "german": "überreichen",
+    "info": "",
+    "english": "to present, hand over",
+    "example": ""
+  },
+  {
+    "german": "die Angst",
+    "info": "Ängste",
+    "english": "fear",
+    "example": ""
+  },
+  {
+    "german": "die Emotion",
+    "info": "-en",
+    "english": "emotion",
+    "example": ""
+  },
+  {
+    "german": "das Unglück",
+    "info": "(Singular)",
+    "english": "misfortune",
+    "example": ""
+  },
+  {
+    "german": "unglücklich",
+    "info": "",
+    "english": "here: unlucky",
+    "example": ""
+  },
+  {
+    "german": "die Achterbahn",
+    "info": "-en",
+    "english": "roller coaster",
+    "example": ""
+  },
+  {
+    "german": "wegfahren",
+    "info": "(fährt weg, ist weggefahren)",
+    "english": "to drive away",
+    "example": ""
+  },
+  {
+    "german": "wenn",
+    "info": "",
+    "english": "when",
+    "example": ""
+  },
+  {
+    "german": "bestehen",
+    "info": "(besteht, hat bestanden)",
+    "english": "to pass",
+    "example": "(I passed every exam, luckily.)"
+  },
+  {
+    "german": "unten",
+    "info": "",
+    "english": "below",
+    "example": ""
+  },
+  {
+    "german": "aufregend",
+    "info": "",
+    "english": "exciting, thrilling",
+    "example": ""
+  },
+  {
+    "german": "böse",
+    "info": "",
+    "english": "angry, mad",
+    "example": ""
+  },
+  {
+    "german": "erfinden",
+    "info": "(erfindet, hat erfunden)",
+    "english": "to invent",
+    "example": ""
+  },
+  {
+    "german": "sich abwechseln",
+    "info": "(mit + Dat.)",
+    "english": "to alternate",
+    "example": ""
+  },
+  {
+    "german": "Alternative",
+    "info": "(ohne Artikel, Singular)",
+    "english": "alternative",
+    "example": "(Pop, rock, and alternative are music genres.)"
+  },
+  {
+    "german": "die Band",
+    "info": "-s",
+    "english": "band (music)",
+    "example": ""
+  },
+  {
+    "german": "bekannt",
+    "info": "",
+    "english": "known, well-known",
+    "example": ""
+  },
+  {
+    "german": "das Festival",
+    "info": "-s",
+    "english": "festival",
+    "example": ""
+  },
+  {
+    "german": "geben",
+    "info": "(gibt, hat gegeben)",
+    "english": "to give, present",
+    "example": "(At the festival, many bands give concerts.)"
+  },
+  {
+    "german": "historisch",
+    "info": "",
+    "english": "historic(al)",
+    "example": ""
+  },
+  {
+    "german": "das Kinderfest",
+    "info": "-e",
+    "english": "children's festival",
+    "example": ""
+  },
+  {
+    "german": "der Musikfan",
+    "info": "-s",
+    "english": "music fan",
+    "example": ""
+  },
+  {
+    "german": "das Musikfest",
+    "info": "-e",
+    "english": "music festival",
+    "example": ""
+  },
+  {
+    "german": "der Musikstil",
+    "info": "-e",
+    "english": "music genre",
+    "example": ""
+  },
+  {
+    "german": "das Muss",
+    "info": "(Singular)",
+    "english": "must",
+    "example": ""
+  },
+  {
+    "german": "der Newcomer",
+    "info": "-",
+    "english": "newcomer",
+    "example": ""
+  },
+  {
+    "german": "der Pop",
+    "info": "(Singular)",
+    "english": "pop",
+    "example": ""
+  },
+  {
+    "german": "das Programm",
+    "info": "-e",
+    "english": "program, schedule",
+    "example": ""
+  },
+  {
+    "german": "die Segelregatta",
+    "info": "-regatten",
+    "english": "sailing race, yacht race",
+    "example": ""
+  },
+  {
+    "german": "das Segelschiff",
+    "info": "-e",
+    "english": "sailboat",
+    "example": ""
+  },
+  {
+    "german": "spielen",
+    "info": "",
+    "english": "to play",
+    "example": "(The band plays at the festival.)"
+  },
+  {
+    "german": "der Sportfan",
+    "info": "-s",
+    "english": "sports fan",
+    "example": ""
+  },
+  {
+    "german": "das Sportfest",
+    "info": "-e",
+    "english": "sports festival",
+    "example": ""
+  },
+  {
+    "german": "das Stadtfest",
+    "info": "-e",
+    "english": "city festival",
+    "example": ""
+  },
+  {
+    "german": "stattfinden",
+    "info": "(findet statt, hat stattgefunden)",
+    "english": "to take place",
+    "example": ""
+  },
+  {
+    "german": "das Theaterfest",
+    "info": "-e",
+    "english": "theater festival",
+    "example": ""
+  },
+  {
+    "german": "weltweit",
+    "info": "",
+    "english": "worldwide",
+    "example": ""
+  },
+  {
+    "german": "das Feuerwerk",
+    "info": "-e",
+    "english": "fireworks display",
+    "example": ""
+  },
+  {
+    "german": "teilnehmen",
+    "info": "(nimmt teil, hat teilgenommen)",
+    "english": "to take part",
+    "example": ""
+  },
+  {
+    "german": "die Veranstaltung",
+    "info": "-en",
+    "english": "event",
+    "example": ""
+  },
+  {
+    "german": "achten",
+    "info": "(auf + Akk.)",
+    "english": "to pay attention (to s.t.)",
+    "example": ""
+  },
+  {
+    "german": "neutral",
+    "info": "",
+    "english": "neutrally",
+    "example": ""
+  },
+  {
+    "german": "zahlreich",
+    "info": "",
+    "english": "numerous",
+    "example": ""
+  },
+  {
+    "german": "das Pech",
+    "info": "(Singular)",
+    "english": "bad luck",
+    "example": ""
+  },
+  {
+    "german": "fallen",
+    "info": "(fällt, ist gefallen)",
+    "english": "to fall",
+    "example": ""
+  },
+  {
+    "german": "gutmachen",
+    "info": "",
+    "english": "to make good, to make up (for s.t.)",
+    "example": ""
+  },
+  {
+    "german": "das Los",
+    "info": "-e",
+    "english": "lot, raffle ticket",
+    "example": ""
+  },
+  {
+    "german": "peinlich",
+    "info": "",
+    "english": "embarrassing, awkward",
+    "example": ""
+  },
+  {
+    "german": "sauber machen",
+    "info": "",
+    "english": "to make s.t. clean",
+    "example": ""
+  },
+  {
+    "german": "unangenehm",
+    "info": "",
+    "english": "unpleasant",
+    "example": ""
+  },
+  {
+    "german": "ärgerlich",
+    "info": "",
+    "english": "annoying, irritating",
+    "example": ""
+  },
+  {
+    "german": "emotional",
+    "info": "",
+    "english": "emotional",
+    "example": ""
+  },
+  {
+    "german": "fröhlich",
+    "info": "",
+    "english": "happy, cheerful",
+    "example": ""
+  },
+  {
+    "german": "gestresst",
+    "info": "",
+    "english": "stressed",
+    "example": ""
+  },
+  {
+    "german": "das Lied",
+    "info": "-er",
+    "english": "song",
+    "example": ""
+  },
+  {
+    "german": "melancholisch",
+    "info": "",
+    "english": "melancholic",
+    "example": ""
+  },
+  {
+    "german": "originell",
+    "info": "",
+    "english": "original",
+    "example": ""
+  },
+  {
+    "german": "poetisch",
+    "info": "",
+    "english": "poetic",
+    "example": ""
+  },
+  {
+    "german": "romantisch",
+    "info": "",
+    "english": "romantic",
+    "example": ""
+  },
+  {
+    "german": "domestiziert",
+    "info": "",
+    "english": "domesticated",
+    "example": ""
+  },
+  {
+    "german": "erleben",
+    "info": "",
+    "english": "to experience",
+    "example": ""
+  },
+  {
+    "german": "wild",
+    "info": "",
+    "english": "wild",
+    "example": ""
+  },
+  {
+    "german": "der Gegensatz",
+    "info": "-sätze",
+    "english": "counterpart, contrast",
+    "example": ""
+  },
+  {
+    "german": "die Freundschaft",
+    "info": "-en",
+    "english": "friendship",
+    "example": ""
+  },
+  {
+    "german": "handeln",
+    "info": "(von + Dat.)",
+    "english": "to be about",
+    "example": ""
+  },
+  {
+    "german": "die Kindheit",
+    "info": "(Singular)",
+    "english": "childhood",
+    "example": ""
+  },
+  {
+    "german": "die Liebe",
+    "info": "(Singular)",
+    "english": "love",
+    "example": "(Love is a wonderful feeling.)"
+  },
+  {
+    "german": "die Sehnsucht",
+    "info": "-sächte",
+    "english": "longing",
+    "example": ""
+  },
+  {
+    "german": "wovon",
+    "info": "",
+    "english": "about what",
+    "example": ""
+  },
+  {
+    "german": "weiterschreiben",
+    "info": "(schreibt weiter, hat weitergeschrieben)",
+    "english": "to continue writing",
+    "example": ""
+  },
+  {
+    "german": "herumgehen",
+    "info": "(geht herum, ist herumgegangen)",
+    "english": "to go around",
+    "example": ""
+  },
+  {
+    "german": "die Variante",
+    "info": "-n",
+    "english": "variation",
+    "example": ""
+  },
+  {
+    "german": "abfahren",
+    "info": "(fährt ab, ist abgefahren)",
+    "english": "to depart, drive away",
+    "example": ""
+  },
+  {
+    "german": "der Abschnitt",
+    "info": "-e",
+    "english": "section, paragraph",
+    "example": ""
+  },
+  {
+    "german": "akkurat",
+    "info": "",
+    "english": "accurate",
+    "example": ""
+  },
+  {
+    "german": "anbieten",
+    "info": "(bietet an, hat angeboten)",
+    "english": "to offer",
+    "example": ""
+  },
+  {
+    "german": "die Ankunft",
+    "info": "Ankünfte",
+    "english": "arrival",
+    "example": ""
+  },
+  {
+    "german": "das Ausland",
+    "info": "(Singular)",
+    "english": "foreign countries, abroad",
+    "example": ""
+  },
+  {
+    "german": "außer",
+    "info": "(+ Dat.)",
+    "english": "except",
+    "example": "(No one is punctual except me.)"
+  },
+  {
+    "german": "der Blogeintrag",
+    "info": "-einträge",
+    "english": "blog post",
+    "example": ""
+  },
+  {
+    "german": "dafür",
+    "info": "",
+    "english": "in exchange",
+    "example": ""
+  },
+  {
+    "german": "daran",
+    "info": "",
+    "english": "about that",
+    "example": ""
+  },
+  {
+    "german": "der Grund",
+    "info": "Gründe",
+    "english": "reason",
+    "example": ""
+  },
+  {
+    "german": "hilfsbereit",
+    "info": "",
+    "english": "helpfully",
+    "example": ""
+  },
+  {
+    "german": "der Inhalt",
+    "info": "-e",
+    "english": "content",
+    "example": ""
+  },
+  {
+    "german": "interessiert",
+    "info": "(an + Dat.)",
+    "english": "interested",
+    "example": ""
+  },
+  {
+    "german": "irgendwie",
+    "info": "",
+    "english": "somehow",
+    "example": ""
+  },
+  {
+    "german": "jeweils",
+    "info": "",
+    "english": "each",
+    "example": ""
+  },
+  {
+    "german": "mitnehmen",
+    "info": "(nimmt mit, hat mitgenommen)",
+    "english": "to take along",
+    "example": ""
+  },
+  {
+    "german": "niemand",
+    "info": "",
+    "english": "nobody",
+    "example": ""
+  },
+  {
+    "german": "nirgends",
+    "info": "",
+    "english": "nowhere",
+    "example": ""
+  },
+  {
+    "german": "ordentlich",
+    "info": "",
+    "english": "proper, tidy",
+    "example": ""
+  },
+  {
+    "german": "schlimm",
+    "info": "",
+    "english": "bad, terrible",
+    "example": ""
+  },
+  {
+    "german": "sogar",
+    "info": "",
+    "english": "even",
+    "example": ""
+  },
+  {
+    "german": "die Sprachenschule",
+    "info": "-n",
+    "english": "language school",
+    "example": ""
+  },
+  {
+    "german": "der Tango",
+    "info": "-s",
+    "english": "tango",
+    "example": ""
+  },
+  {
+    "german": "die Tango-Musik",
+    "info": "(Singular)",
+    "english": "tango music",
+    "example": ""
+  },
+  {
+    "german": "unterrichten",
+    "info": "",
+    "english": "to teach",
+    "example": ""
+  },
+  {
+    "german": "der Verkehr",
+    "info": "(Singular)",
+    "english": "traffic",
+    "example": ""
+  },
+  {
+    "german": "das Wohnheim",
+    "info": "-e",
+    "english": "dorm",
+    "example": ""
+  },
+  {
+    "german": "ziemlich",
+    "info": "",
+    "english": "quite, rather",
+    "example": ""
+  },
+  {
+    "german": "zusammenfassen",
+    "info": "",
+    "english": "to summarize",
+    "example": ""
+  },
+  {
+    "german": "der Absatz",
+    "info": "Absätze",
+    "english": "paragraph",
+    "example": ""
+  },
+  {
+    "german": "passend",
+    "info": "",
+    "english": "suitable, matching",
+    "example": ""
+  },
+  {
+    "german": "tauschen",
+    "info": "",
+    "english": "to switch, trade",
+    "example": ""
+  },
+  {
+    "german": "die Zeile",
+    "info": "-n",
+    "english": "line (text)",
+    "example": ""
+  },
+  {
+    "german": "der Aufenthalt",
+    "info": "-e",
+    "english": "stay, visit",
+    "example": ""
+  }
+]

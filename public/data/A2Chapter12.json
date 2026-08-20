@@ -1,0 +1,566 @@
+[
+  {
+    "german": "Äthiopien",
+    "info": "",
+    "english": "Ethiopia",
+    "example": ""
+  },
+  {
+    "german": "beeindrucken",
+    "info": "",
+    "english": "to impress",
+    "example": ""
+  },
+  {
+    "german": "dekorieren",
+    "info": "",
+    "english": "to decorate",
+    "example": ""
+  },
+  {
+    "german": "die Gastfreundschaft",
+    "info": "(Singular)",
+    "english": "hospitality",
+    "example": ""
+  },
+  {
+    "german": "die Gastgeberin",
+    "info": "-nen",
+    "english": "hostess",
+    "example": ""
+  },
+  {
+    "german": "der Geselle",
+    "info": "-n",
+    "english": "apprentice",
+    "example": ""
+  },
+  {
+    "german": "der Heimatort",
+    "info": "-e",
+    "english": "hometown",
+    "example": ""
+  },
+  {
+    "german": "die Kaffeebohne",
+    "info": "-n",
+    "english": "coffee bean",
+    "example": ""
+  },
+  {
+    "german": "die Kaffeezeremonie",
+    "info": "-n",
+    "english": "coffee ceremony",
+    "example": ""
+  },
+  {
+    "german": "die Kulturwissenschaftlerin",
+    "info": "-nen",
+    "english": "humanities researcher",
+    "example": ""
+  },
+  {
+    "german": "Neujahr",
+    "info": "(ohne Artikel)",
+    "english": "New Year's",
+    "example": ""
+  },
+  {
+    "german": "der Ofen",
+    "info": "Öfen",
+    "english": "oven",
+    "example": ""
+  },
+  {
+    "german": "rösten",
+    "info": "",
+    "english": "to roast",
+    "example": ""
+  },
+  {
+    "german": "Silvester",
+    "info": "(ohne Artikel)",
+    "english": "New Year's Eve",
+    "example": ""
+  },
+  {
+    "german": "die Walz",
+    "info": "(Singular)",
+    "english": "apprenticeship in a different local region",
+    "example": "(The carpenter has been studying abroad for three months now.)"
+  },
+  {
+    "german": "der Wandergeselle",
+    "info": "-n",
+    "english": "traveling apprentice",
+    "example": ""
+  },
+  {
+    "german": "die Wanderschaft",
+    "info": "-en",
+    "english": "travels",
+    "example": ""
+  },
+  {
+    "german": "die Zeremonie",
+    "info": "-n",
+    "english": "ceremony",
+    "example": ""
+  },
+  {
+    "german": "das Neujahrsfest",
+    "info": "-e",
+    "english": "new year's celebration",
+    "example": ""
+  },
+  {
+    "german": "das Erntedankfest",
+    "info": "-e",
+    "english": "harvest celebration",
+    "example": ""
+  },
+  {
+    "german": "der Maibaum",
+    "info": "-bäume",
+    "english": "maypole",
+    "example": ""
+  },
+  {
+    "german": "anlassen",
+    "info": "(lässt an, hat angelassen)",
+    "english": "to leave on",
+    "example": ""
+  },
+  {
+    "german": "der Arbeitskollege",
+    "info": "-n",
+    "english": "colleague",
+    "example": ""
+  },
+  {
+    "german": "ausziehen",
+    "info": "(zieht aus, hat ausgezogen)",
+    "english": "to take off",
+    "example": "(In Germany, one does not automatically take off one's shoes as a guest.)"
+  },
+  {
+    "german": "die Diplomarbeit",
+    "info": "-en",
+    "english": "thesis",
+    "example": ""
+  },
+  {
+    "german": "einzig",
+    "info": "",
+    "english": "only, sole, unique",
+    "example": ""
+  },
+  {
+    "german": "die Geburtstagsparty",
+    "info": "-s",
+    "english": "birthday party",
+    "example": ""
+  },
+  {
+    "german": "der Hausschuh",
+    "info": "-e",
+    "english": "slipper",
+    "example": ""
+  },
+  {
+    "german": "neulich",
+    "info": "",
+    "english": "recently",
+    "example": ""
+  },
+  {
+    "german": "die Socke",
+    "info": "-n",
+    "english": "sock",
+    "example": ""
+  },
+  {
+    "german": "stehen bleiben",
+    "info": "(bleibt stehen, ist stehen geblieben)",
+    "english": "to stand still",
+    "example": ""
+  },
+  {
+    "german": "unhöflich",
+    "info": "",
+    "english": "impolite(ly)",
+    "example": ""
+  },
+  {
+    "german": "unsicher",
+    "info": "",
+    "english": "insecure(ly)",
+    "example": ""
+  },
+  {
+    "german": "unzufrieden",
+    "info": "",
+    "english": "dissatisfied(ly), displeased",
+    "example": ""
+  },
+  {
+    "german": "auch wenn",
+    "info": "",
+    "english": "even when",
+    "example": ""
+  },
+  {
+    "german": "auf keinen Fall",
+    "info": "",
+    "english": "under no circumstances",
+    "example": ""
+  },
+  {
+    "german": "der Gastgeber",
+    "info": "-",
+    "english": "host",
+    "example": ""
+  },
+  {
+    "german": "gierig",
+    "info": "",
+    "english": "greedy",
+    "example": ""
+  },
+  {
+    "german": "der Kulturknigge",
+    "info": "(Singular)",
+    "english": "cultural etiquette",
+    "example": ""
+  },
+  {
+    "german": "die Portion",
+    "info": "-en",
+    "english": "portion",
+    "example": ""
+  },
+  {
+    "german": "putzen",
+    "info": "(Ich muss mir ständig die Nase putzen.)",
+    "english": "to clean, wipe",
+    "example": "(I constantly have to blow my nose.)"
+  },
+  {
+    "german": "schlurfen",
+    "info": "",
+    "english": "to slurp",
+    "example": ""
+  },
+  {
+    "german": "die Seite",
+    "info": "(Singular)",
+    "english": "side",
+    "example": "(When I have to blow my nose, I look off to the side.)"
+  },
+  {
+    "german": "das Taschentuch",
+    "info": "-tücher",
+    "english": "handkerchief",
+    "example": ""
+  },
+  {
+    "german": "umrühren",
+    "info": "",
+    "english": "to stir up",
+    "example": ""
+  },
+  {
+    "german": "wirken",
+    "info": "",
+    "english": "here: to seem",
+    "example": ""
+  },
+  {
+    "german": "damit",
+    "info": "(Nimm nicht zu viel vom Kuchen, damit du nicht gierig wirkst.)",
+    "english": "here: so that",
+    "example": "(Don't take too much of the cake, so you don't seem greedy.)"
+  },
+  {
+    "german": "der Reiseleiter",
+    "info": "-",
+    "english": "tour guide",
+    "example": ""
+  },
+  {
+    "german": "um ... zu",
+    "info": "(Ich esse die heiße Suppe vorsichtig, um nicht zu schlürfen.)",
+    "english": "in order to",
+    "example": "(I eat the hot soup carefully, in order not to slurp.)"
+  },
+  {
+    "german": "die Absicht",
+    "info": "-en",
+    "english": "intention",
+    "example": ""
+  },
+  {
+    "german": "wozu",
+    "info": "",
+    "english": "why, for what",
+    "example": ""
+  },
+  {
+    "german": "das Benehmen",
+    "info": "(Singular)",
+    "english": "behavior, manners",
+    "example": ""
+  },
+  {
+    "german": "die Höflichkeit",
+    "info": "-en",
+    "english": "politeness, courtesy",
+    "example": ""
+  },
+  {
+    "german": "Acht",
+    "info": "(ohne Artikel, Singular)",
+    "english": "awareness, heed",
+    "example": "(Be aware: the stoplight is red.)"
+  },
+  {
+    "german": "die Ausnahme",
+    "info": "-n",
+    "english": "exception",
+    "example": ""
+  },
+  {
+    "german": "automatisch",
+    "info": "",
+    "english": "automatically",
+    "example": ""
+  },
+  {
+    "german": "der Beamte",
+    "info": "-n",
+    "english": "officer, civil servant",
+    "example": ""
+  },
+  {
+    "german": "befreundet",
+    "info": "",
+    "english": "befriended",
+    "example": ""
+  },
+  {
+    "german": "die Distanz",
+    "info": "-en",
+    "english": "distance",
+    "example": ""
+  },
+  {
+    "german": "duzen",
+    "info": "",
+    "english": "to call someone by 'du'",
+    "example": ""
+  },
+  {
+    "german": "der/die Erwachsene",
+    "info": "-n",
+    "english": "adult",
+    "example": ""
+  },
+  {
+    "german": "gelten",
+    "info": "(gilt, hat gegolten)",
+    "english": "to apply, count",
+    "example": ""
+  },
+  {
+    "german": "generell",
+    "info": "",
+    "english": "generally",
+    "example": ""
+  },
+  {
+    "german": "korrekt",
+    "info": "",
+    "english": "correct",
+    "example": ""
+  },
+  {
+    "german": "näher",
+    "info": "(Ich kenne meine Kollegen leider nicht näher.)",
+    "english": "closer",
+    "example": "(Unfortunately, I don't know my colleagues too well.)"
+  },
+  {
+    "german": "das Schulalter",
+    "info": "(Singular)",
+    "english": "school-age",
+    "example": ""
+  },
+  {
+    "german": "siezen",
+    "info": "",
+    "english": "to call someone by 'Sie'",
+    "example": ""
+  },
+  {
+    "german": "das Schulkind",
+    "info": "-er",
+    "english": "schoolchild",
+    "example": ""
+  },
+  {
+    "german": "die Wanderung",
+    "info": "-en",
+    "english": "hike",
+    "example": ""
+  },
+  {
+    "german": "der/die Bekannte",
+    "info": "-n",
+    "english": "acquaintance",
+    "example": ""
+  },
+  {
+    "german": "steigen",
+    "info": "(steigt, ist gestiegen)",
+    "english": "to climb, rise",
+    "example": ""
+  },
+  {
+    "german": "die Stimme",
+    "info": "-n",
+    "english": "voice",
+    "example": ""
+  },
+  {
+    "german": "nun",
+    "info": "",
+    "english": "now",
+    "example": ""
+  },
+  {
+    "german": "eingehen",
+    "info": "(geht ein, ist eingegangen)",
+    "english": "to focus on, concentrate",
+    "example": "(On which point in the discussion should we focus?)"
+  },
+  {
+    "german": "die Industrie",
+    "info": "-en",
+    "english": "industry",
+    "example": ""
+  },
+  {
+    "german": "die Ordnung",
+    "info": "(Singular)",
+    "english": "order",
+    "example": ""
+  },
+  {
+    "german": "die Qualität",
+    "info": "(Singular)",
+    "english": "quality",
+    "example": ""
+  },
+  {
+    "german": "die Wirtschaft",
+    "info": "(Singular)",
+    "english": "economy",
+    "example": ""
+  },
+  {
+    "german": "abschließend",
+    "info": "",
+    "english": "in closing",
+    "example": ""
+  },
+  {
+    "german": "altmodisch",
+    "info": "",
+    "english": "old-fashioned",
+    "example": ""
+  },
+  {
+    "german": "das Ballkleid",
+    "info": "-er",
+    "english": "formal dress for balls",
+    "example": ""
+  },
+  {
+    "german": "beleidigt",
+    "info": "",
+    "english": "offended",
+    "example": ""
+  },
+  {
+    "german": "der Handkuss",
+    "info": "-küsse",
+    "english": "kiss on the hand",
+    "example": ""
+  },
+  {
+    "german": "die Kaiserzeit",
+    "info": "(Singular)",
+    "english": "imperial era",
+    "example": ""
+  },
+  {
+    "german": "kriegen",
+    "info": "",
+    "english": "to get, obtain",
+    "example": ""
+  },
+  {
+    "german": "der Opernball",
+    "info": "-bälle",
+    "english": "opera ball",
+    "example": ""
+  },
+  {
+    "german": "die Prinzessin",
+    "info": "-nen",
+    "english": "princess",
+    "example": ""
+  },
+  {
+    "german": "der Quatsch",
+    "info": "(Singular)",
+    "english": "nonsense",
+    "example": ""
+  },
+  {
+    "german": "schließlich",
+    "info": "",
+    "english": "finally",
+    "example": ""
+  },
+  {
+    "german": "der Ski",
+    "info": "-er",
+    "english": "ski",
+    "example": ""
+  },
+  {
+    "german": "das Skifahren",
+    "info": "(Singular)",
+    "english": "to ski",
+    "example": ""
+  },
+  {
+    "german": "die Zusammenfassung",
+    "info": "-en",
+    "english": "summary, synopsis",
+    "example": ""
+  },
+  {
+    "german": "der Blogger",
+    "info": "-",
+    "english": "blogger",
+    "example": ""
+  },
+  {
+    "german": "die Eigenschaft",
+    "info": "-en",
+    "english": "attribute, characteristic",
+    "example": ""
+  }
+]

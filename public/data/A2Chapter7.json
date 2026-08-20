@@ -1,0 +1,560 @@
+[
+  {
+    "german": "die Disziplin",
+    "info": "(Singular)",
+    "english": "discipline",
+    "example": ""
+  },
+  {
+    "german": "die Gitarre",
+    "info": "-n",
+    "english": "guitar",
+    "example": ""
+  },
+  {
+    "german": "die Lieblingsband",
+    "info": "-s",
+    "english": "favorite band",
+    "example": ""
+  },
+  {
+    "german": "der Online-Kurs",
+    "info": "-e",
+    "english": "online course",
+    "example": ""
+  },
+  {
+    "german": "verfassen",
+    "info": "(einen Forumseintrag verfassen)",
+    "english": "to write up",
+    "example": "(write up a forum post)"
+  },
+  {
+    "german": "blicken",
+    "info": "(Ich blick's nicht.)",
+    "english": "to see, glimpse",
+    "example": "(I don't see it.)"
+  },
+  {
+    "german": "die Checkliste",
+    "info": "-n",
+    "english": "checklist",
+    "example": ""
+  },
+  {
+    "german": "durcheinandergehen",
+    "info": "(geht durcheinander, ist durcheinandergegangen)",
+    "english": "to get mixed up",
+    "example": ""
+  },
+  {
+    "german": "einfallen",
+    "info": "(fällt ein, ist eingefallen)",
+    "english": "to think of (s.t.)",
+    "example": ""
+  },
+  {
+    "german": "einhalten",
+    "info": "(hält ein, hat eingehalten)",
+    "english": "to follow, observe",
+    "example": ""
+  },
+  {
+    "german": "kapieren",
+    "info": "",
+    "english": "to understand",
+    "example": ""
+  },
+  {
+    "german": "knapp",
+    "info": "",
+    "english": "scarce(ly)",
+    "example": ""
+  },
+  {
+    "german": "die Meisterprüfung",
+    "info": "-en",
+    "english": "master's certification",
+    "example": ""
+  },
+  {
+    "german": "mündlich",
+    "info": "",
+    "english": "oral",
+    "example": ""
+  },
+  {
+    "german": "der Prüfer",
+    "info": "-",
+    "english": "examiner, person administering an exam",
+    "example": ""
+  },
+  {
+    "german": "der Schlaf",
+    "info": "(Singular)",
+    "english": "sleep",
+    "example": ""
+  },
+  {
+    "german": "das Semester",
+    "info": "-",
+    "english": "semester",
+    "example": ""
+  },
+  {
+    "german": "der Stoff",
+    "info": "(Singular)",
+    "english": "material",
+    "example": "(I still have to learn so much material for the test.)"
+  },
+  {
+    "german": "trotzdem",
+    "info": "",
+    "english": "nevertheless",
+    "example": ""
+  },
+  {
+    "german": "der Zeitplan",
+    "info": "-pläne",
+    "english": "schedule",
+    "example": ""
+  },
+  {
+    "german": "sich entspannen",
+    "info": "",
+    "english": "to relax",
+    "example": ""
+  },
+  {
+    "german": "konsequent",
+    "info": "",
+    "english": "consistent(ly)",
+    "example": ""
+  },
+  {
+    "german": "verschieben",
+    "info": "(verschiebt, hat verschoben)",
+    "english": "to delay, put off",
+    "example": ""
+  },
+  {
+    "german": "das Lernproblem",
+    "info": "-e",
+    "english": "learning problem",
+    "example": ""
+  },
+  {
+    "german": "weiterarbeiten",
+    "info": "",
+    "english": "to continue work",
+    "example": ""
+  },
+  {
+    "german": "die Arbeit",
+    "info": "-en",
+    "english": "here: exam",
+    "example": "(Maria has an exam in geography today.)"
+  },
+  {
+    "german": "der Arbeitsplan",
+    "info": "-pläne",
+    "english": "work plan, work schedule",
+    "example": ""
+  },
+  {
+    "german": "denn",
+    "info": "",
+    "english": "because",
+    "example": "(Even examiners are often nervous because they really have to concentrate.)"
+  },
+  {
+    "german": "dringend",
+    "info": "",
+    "english": "urgently",
+    "example": ""
+  },
+  {
+    "german": "durchatmen",
+    "info": "",
+    "english": "to breathe, respire",
+    "example": ""
+  },
+  {
+    "german": "die Erholung",
+    "info": "(Singular)",
+    "english": "recovery",
+    "example": ""
+  },
+  {
+    "german": "gerecht",
+    "info": "",
+    "english": "fair, just",
+    "example": ""
+  },
+  {
+    "german": "die Grippe",
+    "info": "-n",
+    "english": "flu",
+    "example": ""
+  },
+  {
+    "german": "lassen",
+    "info": "(lässt, hat gelassen)",
+    "english": "to leave",
+    "example": "(Also, leave some gaps for breaks in your work schedule.)"
+  },
+  {
+    "german": "der Lernhelfer",
+    "info": "-",
+    "english": "learning assistant",
+    "example": ""
+  },
+  {
+    "german": "lösen",
+    "info": "",
+    "english": "to solve",
+    "example": ""
+  },
+  {
+    "german": "nachfragen",
+    "info": "",
+    "english": "to ask again",
+    "example": ""
+  },
+  {
+    "german": "ruhig",
+    "info": "",
+    "english": "here: without worry",
+    "example": "(Go ahead and take one day off from studying per week!)"
+  },
+  {
+    "german": "tief",
+    "info": "",
+    "english": "deeply",
+    "example": "(Breathe deeply!)"
+  },
+  {
+    "german": "der Trick",
+    "info": "-s",
+    "english": "trick",
+    "example": ""
+  },
+  {
+    "german": "übrigens",
+    "info": "",
+    "english": "by the way",
+    "example": ""
+  },
+  {
+    "german": "verplanen",
+    "info": "",
+    "english": "here: to overschedule",
+    "example": ""
+  },
+  {
+    "german": "einplanen",
+    "info": "",
+    "english": "to schedule in",
+    "example": ""
+  },
+  {
+    "german": "belohnen",
+    "info": "",
+    "english": "to reward",
+    "example": ""
+  },
+  {
+    "german": "motivieren",
+    "info": "",
+    "english": "to motivate",
+    "example": ""
+  },
+  {
+    "german": "der Ratschlag",
+    "info": "Ratschläge",
+    "english": "advice, counsel",
+    "example": ""
+  },
+  {
+    "german": "der Forumstext",
+    "info": "-e",
+    "english": "forum post",
+    "example": ""
+  },
+  {
+    "german": "abwechslungsreich",
+    "info": "",
+    "english": "varied",
+    "example": ""
+  },
+  {
+    "german": "der Auftrag",
+    "info": "Aufträge",
+    "english": "job, order, task",
+    "example": ""
+  },
+  {
+    "german": "begleiten",
+    "info": "",
+    "english": "to accompany",
+    "example": ""
+  },
+  {
+    "german": "der Doktor",
+    "info": "Doktoren",
+    "english": "doctor",
+    "example": ""
+  },
+  {
+    "german": "dolmetschen",
+    "info": "",
+    "english": "to translate simultaneously",
+    "example": ""
+  },
+  {
+    "german": "das Drehbuch",
+    "info": "-bücher",
+    "english": "screenplay",
+    "example": ""
+  },
+  {
+    "german": "einsam",
+    "info": "",
+    "english": "lonely",
+    "example": ""
+  },
+  {
+    "german": "faszinieren",
+    "info": "",
+    "english": "to fascinate",
+    "example": ""
+  },
+  {
+    "german": "freiberuflich",
+    "info": "",
+    "english": "self-employed, freelance",
+    "example": ""
+  },
+  {
+    "german": "der Gebärdendolmetscher",
+    "info": "-",
+    "english": "sign language interpreter",
+    "example": ""
+  },
+  {
+    "german": "gehörlos",
+    "info": "",
+    "english": "deaf, hearing-impaired",
+    "example": ""
+  },
+  {
+    "german": "der/die Gehörlose",
+    "info": "-n",
+    "english": "deaf person, hearing-impaired person",
+    "example": ""
+  },
+  {
+    "german": "das Gericht",
+    "info": "-e",
+    "english": "court",
+    "example": "(Tom often interprets in court or at the civil magistrate's office.)"
+  },
+  {
+    "german": "die Kommunikation",
+    "info": "(Singular)",
+    "english": "communication",
+    "example": ""
+  },
+  {
+    "german": "komplett",
+    "info": "",
+    "english": "complete(ly)",
+    "example": ""
+  },
+  {
+    "german": "die Konferenz",
+    "info": "-en",
+    "english": "conference",
+    "example": ""
+  },
+  {
+    "german": "die Logopädin",
+    "info": "-nen",
+    "english": "speech therapist (f.)",
+    "example": ""
+  },
+  {
+    "german": "Mitternacht",
+    "info": "(ohne Artikel, Singular)",
+    "english": "midnight",
+    "example": ""
+  },
+  {
+    "german": "die Phase",
+    "info": "-n",
+    "english": "phase",
+    "example": ""
+  },
+  {
+    "german": "sorgen",
+    "info": "",
+    "english": "to ensure, provide",
+    "example": ""
+  },
+  {
+    "german": "die Sprachtherapie",
+    "info": "-n",
+    "english": "speech therapy",
+    "example": ""
+  },
+  {
+    "german": "das Standesamt",
+    "info": "-ämter",
+    "english": "civil magistrate's office",
+    "example": ""
+  },
+  {
+    "german": "der Tagesablauf",
+    "info": "-abläufe",
+    "english": "daily schedule",
+    "example": ""
+  },
+  {
+    "german": "der Übersetzer",
+    "info": "-",
+    "english": "translator",
+    "example": ""
+  },
+  {
+    "german": "die Untersuchung",
+    "info": "-en",
+    "english": "examination",
+    "example": ""
+  },
+  {
+    "german": "der Zeitschriftenartikel",
+    "info": "-",
+    "english": "magazine article",
+    "example": ""
+  },
+  {
+    "german": "die Angabe",
+    "info": "-n",
+    "english": "statement",
+    "example": ""
+  },
+  {
+    "german": "die Tänzerin",
+    "info": "-nen",
+    "english": "dancer (f.)",
+    "example": ""
+  },
+  {
+    "german": "die Aushilfe",
+    "info": "-n",
+    "english": "temporary help",
+    "example": ""
+  },
+  {
+    "german": "einkochen",
+    "info": "",
+    "english": "to boil down",
+    "example": ""
+  },
+  {
+    "german": "die Frucht",
+    "info": "Früchte",
+    "english": "fruit",
+    "example": ""
+  },
+  {
+    "german": "das Generationenprojekt",
+    "info": "-e",
+    "english": "generational project",
+    "example": ""
+  },
+  {
+    "german": "die Erwartung",
+    "info": "-en",
+    "english": "expectation",
+    "example": ""
+  },
+  {
+    "german": "die Reportage",
+    "info": "-n",
+    "english": "report",
+    "example": ""
+  },
+  {
+    "german": "das Stichwort",
+    "info": "-wörter",
+    "english": "keyword",
+    "example": ""
+  },
+  {
+    "german": "die Senioren",
+    "info": "-nen",
+    "english": "senior citizen (f.)",
+    "example": ""
+  },
+  {
+    "german": "das Lieblingsbuch",
+    "info": "-bücher",
+    "english": "favorite book",
+    "example": ""
+  },
+  {
+    "german": "der Vorleser",
+    "info": "-",
+    "english": "reader",
+    "example": ""
+  },
+  {
+    "german": "die Einleitung",
+    "info": "-en",
+    "english": "introduction",
+    "example": ""
+  },
+  {
+    "german": "erstens",
+    "info": "",
+    "english": "firstly",
+    "example": ""
+  },
+  {
+    "german": "die Gliederung",
+    "info": "-en",
+    "english": "structure, organization",
+    "example": ""
+  },
+  {
+    "german": "der Hauptteil",
+    "info": "-e",
+    "english": "main section",
+    "example": ""
+  },
+  {
+    "german": "der Punkt",
+    "info": "-e",
+    "english": "point",
+    "example": "(I still want to say something about this point...)"
+  },
+  {
+    "german": "der Zuhörer",
+    "info": "-",
+    "english": "listener",
+    "example": ""
+  },
+  {
+    "german": "der Spiegel",
+    "info": "-",
+    "english": "mirror",
+    "example": ""
+  },
+  {
+    "german": "vortragen",
+    "info": "(trägt vor, hat vorgetragen)",
+    "english": "to recite, deliver",
+    "example": ""
+  }
+]
