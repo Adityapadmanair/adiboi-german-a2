@@ -228,7 +228,7 @@ function App() {
                   onClick={() => handleResetChapter(idx)}
                   title="Reset this chapter's progress"
                 >
-                  ⟳
+                  Reset
                 </button>
               </div>
             );
