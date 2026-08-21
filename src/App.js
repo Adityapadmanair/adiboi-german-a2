@@ -19,6 +19,7 @@ function isSimilar(input, answer) {
   const clean = (s) => s.toLowerCase().trim().replace(/[.,/#!$%^&*;:{}=\-_`~()]/g, '');
   const inp = clean(input);
   const ans = clean(answer);
+  if (inp === '') return false;
   if (inp === ans) return true;
   if (inp.includes(ans) || ans.includes(inp)) return true;
   // If answer is longer than 4 chars, allow 1-2 typos
@@ -288,11 +289,13 @@ function App() {
               {showAnswer && (
                 <div className="answer-reveal">
                   <div className="correct-answer">🇬🇧 {currentWord.english}</div>
-                  <div className={`result-message ${isSimilar(inputValue.trim(), currentWord.english) ? 'correct' : 'wrong'}`}>
-                    {isSimilar(inputValue.trim(), currentWord.english) 
-                      ? '✅ Correct!' 
-                      : inputValue.trim() !== "" ? '❌ Wrong!' : '👀 Revealed - Marked as Wrong'}
-                  </div>
+                   <div className={`result-message ${inputValue.trim() === '' ? 'wrong' : (isSimilar(inputValue.trim(), currentWord.english) ? 'correct' : 'wrong')}`}>
+      {inputValue.trim() === '' 
+        ? '👀 Revealed - Marked as Wrong'
+        : isSimilar(inputValue.trim(), currentWord.english) 
+          ? '✅ Correct!' 
+          : '❌ Wrong!'}
+                   </div>  
                 </div>
               )}
 
