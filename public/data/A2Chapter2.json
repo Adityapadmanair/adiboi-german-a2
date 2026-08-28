@@ -3,720 +3,840 @@
     "german": "die Schulzeit",
     "info": "(Singular)",
     "english": "school time, time at school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "worüber",
     "info": "",
     "english": "about what",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "abschließen",
     "info": "(schließt ab, hat abgeschlossen)",
     "english": "to close up, lock up",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Altenpfleger",
     "info": "der Altenpfleger, -",
     "english": "elderly care nurse",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Berufsschule",
     "info": "die Berufsschule, -n",
     "english": "trade school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Elektrotechnik",
     "info": "(Singular)",
     "english": "electrical engineering",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Hotelkaufmann",
     "info": "der Hotelkaufmann, -männer",
     "english": "hotel manager",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Klassentreffen",
     "info": "das Klassentreffen, -",
     "english": "class reunion",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Lehre",
     "info": "die Lehre, -n",
     "english": "apprenticeship",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Lieblingsfach",
     "info": "das Lieblingsfach, -fächer",
     "english": "favorite subject",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Note",
     "info": "die Note, -n",
     "english": "grade",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Praktikum",
     "info": "das Praktikum, Praktika",
     "english": "practicum, internship",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Vorlesung",
     "info": "die Vorlesung, -en",
     "english": "lecture",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Zeugnis",
     "info": "das Zeugnis, -se",
     "english": "report card",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Au-pair",
     "info": "das Au-pair, -s",
     "english": "au pair",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Informatik",
     "info": "(Singular)",
     "english": "computer science",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Sportgeschäft",
     "info": "das Sportgeschäft, -e",
     "english": "sports goods store",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Steckbrief",
     "info": "der Steckbrief, -e",
     "english": "personal description",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Zukunft",
     "info": "(Singular)",
     "english": "future",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Abitur",
     "info": "(Singular)",
     "english": "high school graduation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "alle",
     "info": "",
     "english": "every",
-    "example": "(Every few weeks there was a break, and I could sleep in.)"
+    "example": "(Every few weeks there was a break, and I could sleep in.)",
+    "type": "other"
   },
   {
     "german": "der Arme",
     "info": "der/die Arme, -n",
     "english": "unfortunate person",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ausschlafen",
     "info": "(schlaf aus, hat ausgeschlafen)",
     "english": "to sleep in",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "einreiben",
     "info": "(reibt ein, hat eingerieben)",
     "english": "to rub in",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Eintrag",
     "info": "der Eintrag, Einträge",
     "english": "entry",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Englischlehrerin",
     "info": "die Englischlehrerin, -nen",
     "english": "English teacher (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Erinnerung",
     "info": "die Erinnerung, -en",
     "english": "memory",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "erwachsen",
     "info": "",
     "english": "mature, grown-up",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Fehler",
     "info": "der Fehler, -",
     "english": "mistake",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Ferien",
     "info": "(Plural)",
     "english": "vacation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Hauptsache",
     "info": "die Hauptsache, -n",
     "english": "main thing",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kunst",
     "info": "die Kunst, Künste",
     "english": "art",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kunststunde",
     "info": "die Kunststunde, -n",
     "english": "art class",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Land",
     "info": "(Singular)",
     "english": "countryside",
-    "example": "(Elsa used to live in the countryside.)"
+    "example": "(Elsa used to live in the countryside.)",
+    "type": "noun"
   },
   {
     "german": "die Lieblingsstunde",
     "info": "die Lieblingsstunde, -n",
     "english": "favorite class",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "Mathe",
     "info": "(ohne Artikel, Singular)",
     "english": "math",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Mathelehrer",
     "info": "der Mathelehrer, -",
     "english": "math teacher (m.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "paar",
     "info": "",
     "english": "few, pair",
-    "example": "(Every few weeks, I could sleep in.)"
+    "example": "(Every few weeks, I could sleep in.)",
+    "type": "other"
   },
   {
     "german": "der Riesenspaß",
     "info": "(Singular)",
     "english": "lots of fun",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schrecklich",
     "info": "",
     "english": "terrible",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Schulfreund",
     "info": "der Schulfreund, -e",
     "english": "friend from school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sehen",
     "info": "(sieht, hat gesehen)",
     "english": "to see",
-    "example": "(I see this completely differently than you.)"
+    "example": "(I see this completely differently than you.)",
+    "type": "verb"
   },
   {
     "german": "die Sommerferien",
     "info": "(Plural)",
     "english": "summer vacation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Tür",
     "info": "die Tür, -en",
     "english": "door",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Unterricht",
     "info": "(Singular)",
     "english": "lessons, instruction",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Vokabeltest",
     "info": "der Vokabeltest, -s",
     "english": "vocabulary test",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zukleben",
     "info": "",
     "english": "to seal",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Hausaufgabe",
     "info": "die Hausaufgabe, -n",
     "english": "homework",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "kommen",
     "info": "(kommt, ist gekommen)",
     "english": "to come",
-    "example": "(Oh, come on!)"
+    "example": "(Oh, come on!)",
+    "type": "verb"
   },
   {
     "german": "die Schuluniform",
     "info": "die Schuluniform, -en",
     "english": "school uniform",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "überrascht",
     "info": "",
     "english": "surprised",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Beitrag",
     "info": "der Beitrag, Beiträge",
     "english": "contribution",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Theatergruppe",
     "info": "die Theatergruppe, -n",
     "english": "theater troupe",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kommentar",
     "info": "der Kommentar, -e",
     "english": "commentary",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "mischen",
     "info": "",
     "english": "to mix",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "wie",
     "info": "",
     "english": "how",
-    "example": "(How odd! How funny!)"
+    "example": "(How odd! How funny!)",
+    "type": "other"
   },
   {
     "german": "sich wundern",
     "info": "(über + Akk.)",
     "english": "to be surprised about",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "zu",
     "info": "",
     "english": "to",
-    "example": "(Not to be believed!)"
+    "example": "(Not to be believed!)",
+    "type": "other"
   },
   {
     "german": "sortieren",
     "info": "",
     "english": "to sort",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Trainingsprogramm",
     "info": "das Trainingsprogramm, -e",
     "english": "training program",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Transport",
     "info": "der Transport, -e",
     "english": "transport",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "korrigieren",
     "info": "",
     "english": "to correct",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "schon lange",
     "info": "",
     "english": "long, for a long time",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die WG",
     "info": "die WG, -s",
     "english": "apartment share, housing cooperative",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zurückkommen",
     "info": "(kommt zurück, ist zurückgekommen)",
     "english": "to return, come back",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "zusammenwohnen",
     "info": "",
     "english": "to live together",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "hängen",
     "info": "(hängt, hat/ist gehangen)",
     "english": "to hang",
-    "example": "(The clock hangs on the wall.)"
+    "example": "(The clock hangs on the wall.)",
+    "type": "verb"
   },
   {
     "german": "hängen",
     "info": "(Tom hängt die Uhr an die Wand.)",
     "english": "to hang up",
-    "example": "(Tom hangs the clock up on the wall.)"
+    "example": "(Tom hangs the clock up on the wall.)",
+    "type": "verb"
   },
   {
     "german": "legen",
     "info": "",
     "english": "to lay",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Mehl",
     "info": "das Mehl, -e",
     "english": "flour",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sich umdrehen",
     "info": "",
     "english": "to turn around",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "verändern",
     "info": "",
     "english": "to change, alter",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Veränderung",
     "info": "die Veränderung, -en",
     "english": "changes, alterations",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "fest",
     "info": "",
     "english": "fixed, set",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "außen",
     "info": "",
     "english": "outside",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Ball",
     "info": "der Ball, Bälle",
     "english": "ball",
-    "example": "(Are you coming with to the ball tonight?)"
+    "example": "(Are you coming with to the ball tonight?)",
+    "type": "noun"
   },
   {
     "german": "enttäuscht",
     "info": "",
     "english": "disappointed",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "irgendwas",
     "info": "",
     "english": "something",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Oper",
     "info": "die Oper, -n",
     "english": "opera",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "Servus!",
     "info": "",
     "english": "Greetings!",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "traditionell",
     "info": "",
     "english": "traditional",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "unbedingt",
     "info": "",
     "english": "absolutely, necessarily",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Univiertel",
     "info": "das Univiertel, -",
     "english": "university district",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zu Besuch",
     "info": "",
     "english": "for a visit",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Blatt",
     "info": "das Blatt, Blätter",
     "english": "sheet of paper",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Disco",
     "info": "die Disco, -s",
     "english": "discotheque",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Forum",
     "info": "das Forum, Foren",
     "english": "forum",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "usw.",
     "info": "",
     "english": "etc., and so on",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "weitergeben",
     "info": "(gibt weiter, hat weitergegeben)",
     "english": "to pass on",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Abschluss",
     "info": "der Abschluss, Abschlüsse",
     "english": "degree",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Bundesland",
     "info": "das Bundesland, -länder",
     "english": "province, state",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Hauptschule",
     "info": "die Hauptschule, -n",
     "english": "school up to 9th grade",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Realschule",
     "info": "die Realschule, -n",
     "english": "school up to 10th grade",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Schulsystem",
     "info": "das Schulsystem, -e",
     "english": "school system",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schultyp",
     "info": "der Schultyp, -en",
     "english": "school type",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Abendkurs",
     "info": "der Abendkurs, -e",
     "english": "night class",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Anglistik",
     "info": "(Singular)",
     "english": "English language and literature",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Arbeitsstelle",
     "info": "die Arbeitsstelle, -n",
     "english": "job, position",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Bankkaufmann",
     "info": "der Bankkaufmann, -männern",
     "english": "banker, bank clerk",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Berufsleben",
     "info": "(Singular)",
     "english": "professional life",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "Chemie",
     "info": "(ohne Artikel, Singular)",
     "english": "chemistry",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Dauer",
     "info": "(Singular)",
     "english": "duration",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sich entscheiden",
     "info": "(für/gegen + Akk.) (entscheidet sich, hat sich entschieden)",
     "english": "to decide",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Fach",
     "info": "das Fach, Fächer",
     "english": "subject (in school)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Ferienclub",
     "info": "der Ferienclub, -s",
     "english": "resort",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Grundschule",
     "info": "die Grundschule, -n",
     "english": "elementary school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Hauptschulabschluss",
     "info": "der Hauptschulabschluss, -schlüsse",
     "english": "graduation after 9th grade",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Internat",
     "info": "das Internat, -e",
     "english": "boarding school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Karriere",
     "info": "die Karriere, -n",
     "english": "career",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "nämlich",
     "info": "",
     "english": "indeed, you see",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "perfekt",
     "info": "",
     "english": "perfect",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Physik",
     "info": "(Singular)",
     "english": "physics",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Realschulabschluss",
     "info": "der Realschulabschluss, -schlüsse",
     "english": "graduation after 10th grade",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schulabschluss",
     "info": "der Schulabschluss, -schlüsse",
     "english": "secondary school graduation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Sportstunde",
     "info": "die Sportstunde, -n",
     "english": "gym class",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Stundenplan",
     "info": "der Stundenplan, -pläne",
     "english": "schedule",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Vorbereitung",
     "info": "die Vorbereitung, -en",
     "english": "preparation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Klassenraum",
     "info": "der Klassenraum, -räume",
     "english": "classroom",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Unterrichtsstunde",
     "info": "die Unterrichtsstunde, -n",
     "english": "class time",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "kommentieren",
     "info": "",
     "english": "to comment",
-    "example": ""
+    "example": "",
+    "type": "verb"
   }
 ]

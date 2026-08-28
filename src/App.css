@@ -412,6 +412,39 @@ body {
   to { opacity: 1; transform: scale(1); }
 }
 
+.filter-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+  padding: 10px 15px;
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  color: #c9d1d9;
+  font-size: 0.95rem;
+}
+
+.filter-container label {
+  color: #8b949e;
+}
+
+.filter-container select {
+  background: #0d1117;
+  color: #c9d1d9;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.filter-container select:focus {
+  border-color: #d2a8ff;
+}
+
 /* Mobile Adjustments */
 @media (max-width: 768px) {
   .app-container {

@@ -3,888 +3,1036 @@
     "german": "der Bayernhof",
     "info": "-höfe",
     "english": "farm",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bewohnt",
     "info": "",
     "english": "inhabited",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Breite",
     "info": "-n",
     "english": "width, breadth",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Dach",
     "info": "Dächer",
     "english": "roof",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Dorf",
     "info": "Dörfer",
     "english": "small town, village",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Einwohner",
     "info": "-",
     "english": "inhabitant",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "entfernt",
     "info": "",
     "english": "distant(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Ferienwohnung",
     "info": "-en",
     "english": "vacation home",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Fläche",
     "info": "-n",
     "english": "area",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Gebäude",
     "info": "-",
     "english": "building",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "genial",
     "info": "",
     "english": "ingenious(ly); here: impressive",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Hausboot",
     "info": "-e",
     "english": "houseboat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Insel",
     "info": "-n",
     "english": "island",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "intensiv",
     "info": "",
     "english": "intensely, intensively",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Kauffrau",
     "info": "-en",
     "english": "businesswoman",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Keller",
     "info": "-",
     "english": "basement",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Länge",
     "info": "-n",
     "english": "length",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Luft",
     "info": "(meist Singular)",
     "english": "air",
-    "example": "(The air is fresh and clean.)"
+    "example": "(The air is fresh and clean.)",
+    "type": "noun"
   },
   {
     "german": "der Quadratmeter",
     "info": "-",
     "english": "square meter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schaukeln",
     "info": "",
     "english": "to rock, sway",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Seehöhe",
     "info": "(Singular)",
     "english": "above sea level",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "spiegeln",
     "info": "",
     "english": "to mirror, reflect",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Ufer",
     "info": "-",
     "english": "shore",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Wolke",
     "info": "-n",
     "english": "cloud",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Wohnform",
     "info": "-en",
     "english": "form of housing",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Stadtrand",
     "info": "-ränder",
     "english": "city limit",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Strand",
     "info": "-strände",
     "english": "beach",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bisher",
     "info": "",
     "english": "until now",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "leise",
     "info": "",
     "english": "quiet(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "abstellen",
     "info": "(Ich stelle mein Fahrrad im Hof ab.)",
     "english": "to park",
-    "example": "(I park my bicycle in the courtyard.)"
+    "example": "(I park my bicycle in the courtyard.)",
+    "type": "verb"
   },
   {
     "german": "bellen",
     "info": "",
     "english": "to bark",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Haustür",
     "info": "-en",
     "english": "front door",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Eingang",
     "info": "Eingänge",
     "english": "entrance",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Rad",
     "info": "Räder",
     "english": "bike",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Rauch",
     "info": "(Singular)",
     "english": "smoke",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "stinken",
     "info": "(stinkt, hat gestunken)",
     "english": "to stink",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Treppenhaus",
     "info": "-häuser",
     "english": "stairwell, stairway",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Wortschatz",
     "info": "(Singular)",
     "english": "vocabulary",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "eng",
     "info": "",
     "english": "narrow",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Feuer",
     "info": "-",
     "english": "fire",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Feuerwehr",
     "info": "-en",
     "english": "fire department",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kinderwagen",
     "info": "-/-wägen",
     "english": "baby carriage, pram",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Müll",
     "info": "(Singular)",
     "english": "trash",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Mülltonne",
     "info": "-n",
     "english": "trash can",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "trocken",
     "info": "",
     "english": "dry",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "einlenken",
     "info": "",
     "english": "to give in, back down",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "na gut",
     "info": "",
     "english": "all right",
-    "example": "(All right, it's not so bad.)"
+    "example": "(All right, it's not so bad.)",
+    "type": "other"
   },
   {
     "german": "na ja",
     "info": "",
     "english": "oh well",
-    "example": "(Oh well, if that's how it is, I'll accept it.)"
+    "example": "(Oh well, if that's how it is, I'll accept it.)",
+    "type": "other"
   },
   {
     "german": "die Ordnung",
     "info": "(Singular)",
     "english": "here: all right",
-    "example": "(That's all right.)"
+    "example": "(That's all right.)",
+    "type": "noun"
   },
   {
     "german": "vorkommen",
     "info": "(kommt vor, ist vorgekommen)",
     "english": "to occur, happen",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Konfliktsituation",
     "info": "-en",
     "english": "conflict situation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "annehmen",
     "info": "(nimmt an, hat angenommen)",
     "english": "to accept",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "ausräumen",
     "info": "",
     "english": "to empty out",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der/die Kleine",
     "info": "-n",
     "english": "little one",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Nachbarschaft",
     "info": "-en",
     "english": "neighborhood, neighbors",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Bitte",
     "info": "-n",
     "english": "request, plea",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Briefkasten",
     "info": "-kästen",
     "english": "mailbox",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "füttern",
     "info": "",
     "english": "to feed",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Gefallen",
     "info": "-",
     "english": "favor",
-    "example": "(Can you do me a favor and feed my cat this evening?)"
+    "example": "(Can you do me a favor and feed my cat this evening?)",
+    "type": "noun"
   },
   {
     "german": "gießen",
     "info": "(gießt, hat gegossen)",
     "english": "to pour, water",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Katze",
     "info": "-n",
     "english": "cat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "leeren",
     "info": "",
     "english": "to empty",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Päckchen",
     "info": "-",
     "english": "package",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kursteilnehmer",
     "info": "-",
     "english": "course participant",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "aufschlagen",
     "info": "(schlägt auf, hat aufgeschlagen)",
     "english": "here: to open (a book)",
-    "example": "(Please, open the book.)"
+    "example": "(Please, open the book.)",
+    "type": "verb"
   },
   {
     "german": "der Bleistift",
     "info": "-e",
     "english": "pencil",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abmelden",
     "info": "",
     "english": "to log off, sign off, check out",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "einziehen",
     "info": "(zieht ein, ist eingezogen)",
     "english": "to move in",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Umzugswagen",
     "info": "-/-wägen",
     "english": "moving truck",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Apartment",
     "info": "-s",
     "english": "apartment",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "elektrisch",
     "info": "",
     "english": "electrically",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "erlauben",
     "info": "",
     "english": "to allow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "gehören",
     "info": "",
     "english": "to belong",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "möbliert",
     "info": "",
     "english": "furnished",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Strom",
     "info": "(Singular)",
     "english": "electricity",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "vermieten",
     "info": "",
     "english": "to rent out",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Wand",
     "info": "Wände",
     "english": "wall",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "als",
     "info": "",
     "english": "as, when",
-    "example": "(When I was still in Fribourg, I prepared well for my move.)"
+    "example": "(When I was still in Fribourg, I prepared well for my move.)",
+    "type": "other"
   },
   {
     "german": "sich auskennen",
     "info": "(mit + Dat.) (kennt sich aus, hat sich ausgekannt)",
     "english": "to know about, be familiar with",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "etwas",
     "info": "",
     "english": "somewhat, something",
-    "example": "(In the village, everything is somewhat smaller than in the city.)"
+    "example": "(In the village, everything is somewhat smaller than in the city.)",
+    "type": "other"
   },
   {
     "german": "faxen",
     "info": "",
     "english": "to fax",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "immer wenn",
     "info": "",
     "english": "whenever",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "kaum",
     "info": "",
     "english": "barely",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "kündigen",
     "info": "",
     "english": "to resign, quit",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Umzug",
     "info": "Umzüge",
     "english": "move",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sich unterhalten",
     "info": "(unterhält sich, hat sich unterhalten)",
     "english": "to converse",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich verirren",
     "info": "",
     "english": "to become lost",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "versprechen",
     "info": "(verspricht, hat versprochen)",
     "english": "to promise",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das WG-Essen",
     "info": "-",
     "english": "housing cooperative meal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sich wohlfühlen",
     "info": "",
     "english": "to feel well",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Mitstudent",
     "info": "-en",
     "english": "fellow student",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Rückweg",
     "info": "-e",
     "english": "return trip",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "einmalig",
     "info": "",
     "english": "unique, singular",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Spracherfahrung",
     "info": "-en",
     "english": "foreign language experience",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Cousine",
     "info": "-n",
     "english": "cousin (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ebenfalls",
     "info": "",
     "english": "also, likewise",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Abreise",
     "info": "(Singular)",
     "english": "departure",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kätzchen",
     "info": "-",
     "english": "kitten",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Besitzerin",
     "info": "-nen",
     "english": "owner (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Meerschweinchen",
     "info": "-",
     "english": "guinea pig",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Nymphensittich",
     "info": "-e",
     "english": "cockatiel",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "pflegeleicht",
     "info": "",
     "english": "easy to care for",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Schildkröte",
     "info": "-n",
     "english": "turtle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Tierheim",
     "info": "-e",
     "english": "animal shelter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Zuhause",
     "info": "-",
     "english": "home",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ausgeben",
     "info": "(gibt aus, hat ausgegeben)",
     "english": "to spend, give away",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Bär",
     "info": "-en",
     "english": "bear",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Bärchen",
     "info": "-",
     "english": "bear cub",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Hase",
     "info": "-n",
     "english": "rabbit",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Haustier",
     "info": "-e",
     "english": "pet",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kosename",
     "info": "-n",
     "english": "pet name",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Mäuschen",
     "info": "-",
     "english": "here: sweetie",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "Mausi",
     "info": "(ohne Artikel)",
     "english": "here: sweetie",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Schwein",
     "info": "-e",
     "english": "pig",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tiername",
     "info": "-n",
     "english": "animal name",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Futter",
     "info": "-",
     "english": "feed",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Haushalt",
     "info": "-e",
     "english": "household",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Lebenssituation",
     "info": "-en",
     "english": "living situation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "modisch",
     "info": "",
     "english": "fashionable",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Ratte",
     "info": "-n",
     "english": "rat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tierarzt",
     "info": "-ärzte",
     "english": "veterinarian",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Vogel",
     "info": "Vögel",
     "english": "bird",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Lieblingstier",
     "info": "-e",
     "english": "favorite animal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Erdhörnchen",
     "info": "-",
     "english": "gopher",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Fotomontage",
     "info": "-n",
     "english": "photomontage, composite photograph",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "hineinschauen",
     "info": "",
     "english": "to look into",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Kamera",
     "info": "-s",
     "english": "camera",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Selbstauslöser",
     "info": "-",
     "english": "self-timer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "springen",
     "info": "(springt, ist gesprungen)",
     "english": "to jump",
-    "example": "(The gopher just jumped in front of the camera.)"
+    "example": "(The gopher just jumped in front of the camera.)",
+    "type": "verb"
   },
   {
     "german": "der Stein",
     "info": "-e",
     "english": "rock",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zufällig",
     "info": "",
     "english": "coincidentally",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Stil",
     "info": "-e",
     "english": "style",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "unterschiedlich",
     "info": "",
     "english": "different(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "aufziehen",
     "info": "(zieht auf, hat aufgezogen)",
     "english": "to raise",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Ente",
     "info": "-n",
     "english": "duck",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Küken",
     "info": "-",
     "english": "chick",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Polizist",
     "info": "-en",
     "english": "police officer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schwan",
     "info": "Schwäne",
     "english": "swan",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Schweinchen",
     "info": "-",
     "english": "piglet",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Tiergeschichte",
     "info": "-n",
     "english": "animal story",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tiger",
     "info": "-",
     "english": "tiger",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "überqueren",
     "info": "",
     "english": "to cross",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "verliebt",
     "info": "",
     "english": "in love",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "verbessern",
     "info": "",
     "english": "to improve",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Kuh",
     "info": "Kühe",
     "english": "cow",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Spiegelbild",
     "info": "-er",
     "english": "reflection, mirror image",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Terrassentür",
     "info": "-en",
     "english": "patio door, terrace door",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Zaun",
     "info": "Zäune",
     "english": "fence",
-    "example": ""
+    "example": "",
+    "type": "noun"
   }
 ]

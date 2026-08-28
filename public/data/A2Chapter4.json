@@ -3,846 +3,987 @@
     "german": "das Abiturzeugnis",
     "info": "-se",
     "english": "high school diploma, baccalaureate",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Babykleidung",
     "info": "-en",
     "english": "baby clothes",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Bedauern",
     "info": "(Singular)",
     "english": "regret",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Blumenstrauß",
     "info": "-sträuße",
     "english": "bouquet",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Ereignis",
     "info": "-se",
     "english": "result",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "erraten",
     "info": "(errät, hat erraten)",
     "english": "to guess",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Freude",
     "info": "-n",
     "english": "joy",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Führerschein",
     "info": "-",
     "english": "driver's license",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Führerscheinprüfung",
     "info": "-en",
     "english": "driver's license exam",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Geburt",
     "info": "-en",
     "english": "birth",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Hochzeit",
     "info": "-en",
     "english": "wedding",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Jubiläum",
     "info": "Jubiläen",
     "english": "anniversary",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Medaille",
     "info": "-n",
     "english": "medal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Platz",
     "info": "Plätze",
     "english": "place",
-    "example": "(Tom won first place.)"
+    "example": "(Tom won first place.)",
+    "type": "noun"
   },
   {
     "german": "der Ring",
     "info": "-e",
     "english": "ring",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schultag",
     "info": "-e",
     "english": "school day",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Schultüte",
     "info": "-n",
     "english": "cone-shaped cardboard flute filled with candy to celebrate the first day of school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Storch",
     "info": "Störche",
     "english": "stork",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Absage",
     "info": "-n",
     "english": "cancellation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Brautpaar",
     "info": "-e",
     "english": "bride and groom",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Dankeskarte",
     "info": "-n",
     "english": "thank-you card",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Glückwunsch",
     "info": "-wünsche",
     "english": "congratulation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Glückwunschkarte",
     "info": "-n",
     "english": "congratulation card",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "gratulieren",
     "info": "",
     "english": "to congratulate",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "heiraten",
     "info": "",
     "english": "to marry",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Karte",
     "info": "-n",
     "english": "card",
-    "example": "(I am writing a card with congratulations.)"
+    "example": "(I am writing a card with congratulations.)",
+    "type": "noun"
   },
   {
     "german": "das Liebe",
     "info": "(Singular)",
     "english": "here: best",
-    "example": "(I wish you all the best for your wedding.)"
+    "example": "(I wish you all the best for your wedding.)",
+    "type": "noun"
   },
   {
     "german": "der Traum",
     "info": "Träume",
     "english": "dream",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Ausdruck",
     "info": "Ausdrücke",
     "english": "expression",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "aussprechen",
     "info": "(spricht aus, hat ausgesprochen)",
     "english": "to pronounce",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich bedanken",
     "info": "(bei + Dat.)",
     "english": "to thank",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Geburtstagsfeier",
     "info": "-n",
     "english": "birthday celebration",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "danken",
     "info": "",
     "english": "to thank",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Kreis",
     "info": "-e",
     "english": "circle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "überreichen",
     "info": "",
     "english": "to present, hand over",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Angst",
     "info": "Ängste",
     "english": "fear",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Emotion",
     "info": "-en",
     "english": "emotion",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Unglück",
     "info": "(Singular)",
     "english": "misfortune",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "unglücklich",
     "info": "",
     "english": "here: unlucky",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Achterbahn",
     "info": "-en",
     "english": "roller coaster",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "wegfahren",
     "info": "(fährt weg, ist weggefahren)",
     "english": "to drive away",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "wenn",
     "info": "",
     "english": "when",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "bestehen",
     "info": "(besteht, hat bestanden)",
     "english": "to pass",
-    "example": "(I passed every exam, luckily.)"
+    "example": "(I passed every exam, luckily.)",
+    "type": "verb"
   },
   {
     "german": "unten",
     "info": "",
     "english": "below",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "aufregend",
     "info": "",
     "english": "exciting, thrilling",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "böse",
     "info": "",
     "english": "angry, mad",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "erfinden",
     "info": "(erfindet, hat erfunden)",
     "english": "to invent",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich abwechseln",
     "info": "(mit + Dat.)",
     "english": "to alternate",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "Alternative",
     "info": "(ohne Artikel, Singular)",
     "english": "alternative",
-    "example": "(Pop, rock, and alternative are music genres.)"
+    "example": "(Pop, rock, and alternative are music genres.)",
+    "type": "other"
   },
   {
     "german": "die Band",
     "info": "-s",
     "english": "band (music)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bekannt",
     "info": "",
     "english": "known, well-known",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Festival",
     "info": "-s",
     "english": "festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "geben",
     "info": "(gibt, hat gegeben)",
     "english": "to give, present",
-    "example": "(At the festival, many bands give concerts.)"
+    "example": "(At the festival, many bands give concerts.)",
+    "type": "verb"
   },
   {
     "german": "historisch",
     "info": "",
     "english": "historic(al)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Kinderfest",
     "info": "-e",
     "english": "children's festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Musikfan",
     "info": "-s",
     "english": "music fan",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Musikfest",
     "info": "-e",
     "english": "music festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Musikstil",
     "info": "-e",
     "english": "music genre",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Muss",
     "info": "(Singular)",
     "english": "must",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Newcomer",
     "info": "-",
     "english": "newcomer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Pop",
     "info": "(Singular)",
     "english": "pop",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Programm",
     "info": "-e",
     "english": "program, schedule",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Segelregatta",
     "info": "-regatten",
     "english": "sailing race, yacht race",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Segelschiff",
     "info": "-e",
     "english": "sailboat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "spielen",
     "info": "",
     "english": "to play",
-    "example": "(The band plays at the festival.)"
+    "example": "(The band plays at the festival.)",
+    "type": "verb"
   },
   {
     "german": "der Sportfan",
     "info": "-s",
     "english": "sports fan",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Sportfest",
     "info": "-e",
     "english": "sports festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Stadtfest",
     "info": "-e",
     "english": "city festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "stattfinden",
     "info": "(findet statt, hat stattgefunden)",
     "english": "to take place",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Theaterfest",
     "info": "-e",
     "english": "theater festival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "weltweit",
     "info": "",
     "english": "worldwide",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Feuerwerk",
     "info": "-e",
     "english": "fireworks display",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "teilnehmen",
     "info": "(nimmt teil, hat teilgenommen)",
     "english": "to take part",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Veranstaltung",
     "info": "-en",
     "english": "event",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "achten",
     "info": "(auf + Akk.)",
     "english": "to pay attention (to s.t.)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "neutral",
     "info": "",
     "english": "neutrally",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "zahlreich",
     "info": "",
     "english": "numerous",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Pech",
     "info": "(Singular)",
     "english": "bad luck",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "fallen",
     "info": "(fällt, ist gefallen)",
     "english": "to fall",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "gutmachen",
     "info": "",
     "english": "to make good, to make up (for s.t.)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Los",
     "info": "-e",
     "english": "lot, raffle ticket",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "peinlich",
     "info": "",
     "english": "embarrassing, awkward",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sauber machen",
     "info": "",
     "english": "to make s.t. clean",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "unangenehm",
     "info": "",
     "english": "unpleasant",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "ärgerlich",
     "info": "",
     "english": "annoying, irritating",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "emotional",
     "info": "",
     "english": "emotional",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "fröhlich",
     "info": "",
     "english": "happy, cheerful",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "gestresst",
     "info": "",
     "english": "stressed",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Lied",
     "info": "-er",
     "english": "song",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "melancholisch",
     "info": "",
     "english": "melancholic",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "originell",
     "info": "",
     "english": "original",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "poetisch",
     "info": "",
     "english": "poetic",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "romantisch",
     "info": "",
     "english": "romantic",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "domestiziert",
     "info": "",
     "english": "domesticated",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "erleben",
     "info": "",
     "english": "to experience",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "wild",
     "info": "",
     "english": "wild",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Gegensatz",
     "info": "-sätze",
     "english": "counterpart, contrast",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Freundschaft",
     "info": "-en",
     "english": "friendship",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "handeln",
     "info": "(von + Dat.)",
     "english": "to be about",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Kindheit",
     "info": "(Singular)",
     "english": "childhood",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Liebe",
     "info": "(Singular)",
     "english": "love",
-    "example": "(Love is a wonderful feeling.)"
+    "example": "(Love is a wonderful feeling.)",
+    "type": "noun"
   },
   {
     "german": "die Sehnsucht",
     "info": "-sächte",
     "english": "longing",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "wovon",
     "info": "",
     "english": "about what",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "weiterschreiben",
     "info": "(schreibt weiter, hat weitergeschrieben)",
     "english": "to continue writing",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "herumgehen",
     "info": "(geht herum, ist herumgegangen)",
     "english": "to go around",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Variante",
     "info": "-n",
     "english": "variation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abfahren",
     "info": "(fährt ab, ist abgefahren)",
     "english": "to depart, drive away",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Abschnitt",
     "info": "-e",
     "english": "section, paragraph",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "akkurat",
     "info": "",
     "english": "accurate",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "anbieten",
     "info": "(bietet an, hat angeboten)",
     "english": "to offer",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Ankunft",
     "info": "Ankünfte",
     "english": "arrival",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Ausland",
     "info": "(Singular)",
     "english": "foreign countries, abroad",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "außer",
     "info": "(+ Dat.)",
     "english": "except",
-    "example": "(No one is punctual except me.)"
+    "example": "(No one is punctual except me.)",
+    "type": "other"
   },
   {
     "german": "der Blogeintrag",
     "info": "-einträge",
     "english": "blog post",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "dafür",
     "info": "",
     "english": "in exchange",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "daran",
     "info": "",
     "english": "about that",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Grund",
     "info": "Gründe",
     "english": "reason",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "hilfsbereit",
     "info": "",
     "english": "helpfully",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Inhalt",
     "info": "-e",
     "english": "content",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "interessiert",
     "info": "(an + Dat.)",
     "english": "interested",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "irgendwie",
     "info": "",
     "english": "somehow",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "jeweils",
     "info": "",
     "english": "each",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "mitnehmen",
     "info": "(nimmt mit, hat mitgenommen)",
     "english": "to take along",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "niemand",
     "info": "",
     "english": "nobody",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "nirgends",
     "info": "",
     "english": "nowhere",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "ordentlich",
     "info": "",
     "english": "proper, tidy",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "schlimm",
     "info": "",
     "english": "bad, terrible",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sogar",
     "info": "",
     "english": "even",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Sprachenschule",
     "info": "-n",
     "english": "language school",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tango",
     "info": "-s",
     "english": "tango",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Tango-Musik",
     "info": "(Singular)",
     "english": "tango music",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "unterrichten",
     "info": "",
     "english": "to teach",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Verkehr",
     "info": "(Singular)",
     "english": "traffic",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Wohnheim",
     "info": "-e",
     "english": "dorm",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ziemlich",
     "info": "",
     "english": "quite, rather",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "zusammenfassen",
     "info": "",
     "english": "to summarize",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Absatz",
     "info": "Absätze",
     "english": "paragraph",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "passend",
     "info": "",
     "english": "suitable, matching",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "tauschen",
     "info": "",
     "english": "to switch, trade",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Zeile",
     "info": "-n",
     "english": "line (text)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Aufenthalt",
     "info": "-e",
     "english": "stay, visit",
-    "example": ""
+    "example": "",
+    "type": "noun"
   }
 ]

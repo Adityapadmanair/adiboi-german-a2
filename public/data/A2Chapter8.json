@@ -3,726 +3,847 @@
     "german": "Paragliding",
     "info": "(ohne Artikel)",
     "english": "paragliding",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "Parkour",
     "info": "",
     "english": "parkour",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "reiten",
     "info": "(reitet, ist geritten)",
     "english": "horseback riding",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Schneeschuhwandern",
     "info": "(Singular)",
     "english": "snowshoe hiking",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sportlich",
     "info": "",
     "english": "sporty",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "tauchen",
     "info": "(taucht, ist getaucht)",
     "english": "to dive",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Yoga",
     "info": "(Singular)",
     "english": "yoga",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Gleitschirm",
     "info": "-e",
     "english": "paraglider",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Reithelm",
     "info": "-e",
     "english": "riding helmet",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schneeschuh",
     "info": "-e",
     "english": "snowshoe",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Taucherbrille",
     "info": "-n",
     "english": "diving mask",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Yogamatte",
     "info": "-n",
     "english": "yoga mat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Luft",
     "info": "(meist Singular)",
     "english": "air",
-    "example": "(I am in the air, I'm flying!)"
+    "example": "(I am in the air, I'm flying!)",
+    "type": "noun"
   },
   {
     "german": "die Mauer",
     "info": "-n",
     "english": "wall",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Muskel",
     "info": "-n",
     "english": "muscle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Pferd",
     "info": "-e",
     "english": "horse",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schirm",
     "info": "-e",
     "english": "parachute",
-    "example": "(I am jumping out of the airplane; hopefully the parachute will open.)"
+    "example": "(I am jumping out of the airplane; hopefully the parachute will open.)",
+    "type": "noun"
   },
   {
     "german": "das Tier",
     "info": "-e",
     "english": "animal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Wald",
     "info": "Wälder",
     "english": "forest",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Yogakurs",
     "info": "-e",
     "english": "yoga class",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Sportart",
     "info": "-en",
     "english": "sport type",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fallschirm",
     "info": "-e",
     "english": "parachute",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "springen",
     "info": "(springt, ist gesprungen)",
     "english": "to jump",
-    "example": "(I have parachute jumped before.)"
+    "example": "(I have parachute jumped before.)",
+    "type": "verb"
   },
   {
     "german": "der Sportgegenstand",
     "info": "-gegenstände",
     "english": "sports equipment",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fan",
     "info": "-s",
     "english": "fan",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fanartikel",
     "info": "-",
     "english": "team merchandise",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fußballschal",
     "info": "-s",
     "english": "soccer club scarf",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fußballfan",
     "info": "-s",
     "english": "soccer fan",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Begeisterung",
     "info": "(Singular)",
     "english": "enthusiasm",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Enttäuschung",
     "info": "-en",
     "english": "disappointment",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "hoffen",
     "info": "",
     "english": "to hope",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Hoffnung",
     "info": "-en",
     "english": "hope",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Topform",
     "info": "(Singular)",
     "english": "top form, peak condition",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Wahnsinn",
     "info": "(Singular)",
     "english": "madness, insanity",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Niederlage",
     "info": "-n",
     "english": "defeat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Sieg",
     "info": "-e",
     "english": "victory",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Lieblingsmannschaft",
     "info": "-en",
     "english": "favorite team",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Lieblingssportler",
     "info": "-",
     "english": "favorite athlete",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "verlieren",
     "info": "(verliert, hat verloren)",
     "english": "to lose",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Bällchen",
     "info": "-",
     "english": "ball",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "begeistert",
     "info": "",
     "english": "enthusiastic",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sich benehmen",
     "info": "(benimmt sich, hat sich benommen)",
     "english": "to behave",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Chance",
     "info": "-n",
     "english": "chance, opportunity",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Folge",
     "info": "-n",
     "english": "result, consequence",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Konsequenz",
     "info": "-en",
     "english": "consequence",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "kritisch",
     "info": "",
     "english": "critical(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Mannschaft",
     "info": "-en",
     "english": "team",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Tor",
     "info": "-e",
     "english": "goal",
-    "example": "(Great goals were made at the soccer game.)"
+    "example": "(Great goals were made at the soccer game.)",
+    "type": "noun"
   },
   {
     "german": "treu",
     "info": "",
     "english": "loyal(ly)",
-    "example": "(Stay loyal to us.)"
+    "example": "(Stay loyal to us.)",
+    "type": "other"
   },
   {
     "german": "das Vorbild",
     "info": "-er",
     "english": "role model",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Widerspruch",
     "info": "-sprüche",
     "english": "contradiction, opposition",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schießen",
     "info": "(schießt, hat geschossen)",
     "english": "to shoot",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Musiker",
     "info": "-",
     "english": "musician",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Sportler",
     "info": "-",
     "english": "athlete",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Unterscheidung",
     "info": "-en",
     "english": "distinction, difference",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "auf",
     "info": "(Auf zum Sport!)",
     "english": "on",
-    "example": "(On to sports!)"
+    "example": "(On to sports!)",
+    "type": "other"
   },
   {
     "german": "lassen",
     "info": "(lässt, hat gelassen)",
     "english": "to let, allow",
-    "example": "(Let me think!)"
+    "example": "(Let me think!)",
+    "type": "verb"
   },
   {
     "german": "die Kondition",
     "info": "(Singular)",
     "english": "conditioning",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "vorschlagen",
     "info": "(schlägt vor, hat vorgeschlagen)",
     "english": "to suggest",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "ablehnen",
     "info": "",
     "english": "to decline",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "da",
     "info": "",
     "english": "here",
-    "example": "(Here, I have a suggestion...)"
+    "example": "(Here, I have a suggestion...)",
+    "type": "other"
   },
   {
     "german": "halten",
     "info": "(hält, hat gehalten)",
     "english": "to hold, think about",
-    "example": "(What do you think about my idea?)"
+    "example": "(What do you think about my idea?)",
+    "type": "verb"
   },
   {
     "german": "reagieren",
     "info": "(auf + Akk.)",
     "english": "to react",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Reaktion",
     "info": "-en",
     "english": "reaction",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Vorschlag",
     "info": "Vorschläge",
     "english": "suggestion, recommendation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zustimmen",
     "info": "",
     "english": "to agree",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "ausleihen",
     "info": "(leiht aus, hat ausgeliehen)",
     "english": "to borrow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "balancieren",
     "info": "",
     "english": "to balance",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Hochseilgarten",
     "info": "-gärten",
     "english": "high ropes course",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Info",
     "info": "-s",
     "english": "information",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Profi",
     "info": "-s",
     "english": "professional",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Übersicht",
     "info": "-en",
     "english": "overview",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kärtchen",
     "info": "-",
     "english": "card",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Stapel",
     "info": "-",
     "english": "deck of cards",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Art",
     "info": "-en",
     "english": "type",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Geocache",
     "info": "-s",
     "english": "geocache",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "geografisch",
     "info": "",
     "english": "geographically",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das GPS-Gerät",
     "info": "-e",
     "english": "GPS device",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Koordinate",
     "info": "-n",
     "english": "coordinate",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sogenannt",
     "info": "",
     "english": "so-called",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Versteck",
     "info": "-e",
     "english": "hiding place",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "verstecken",
     "info": "",
     "english": "to hide",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Baum",
     "info": "Bäume",
     "english": "tree",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Behälter",
     "info": "-",
     "english": "container",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Cache",
     "info": "-s",
     "english": "cache",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Dose",
     "info": "-n",
     "english": "jar, can, canister",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Erde",
     "info": "(Singular)",
     "english": "earth",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Gelände",
     "info": "-",
     "english": "landscape",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Geocache-Behälter",
     "info": "-e",
     "english": "geocache container",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Geocache-Inhalt",
     "info": "-e",
     "english": "geocache contents",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Geocacher",
     "info": "-",
     "english": "geocacher",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "gleichzeitig",
     "info": "",
     "english": "simultaneous(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Grad",
     "info": "-e",
     "english": "degree",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "hineinlegen",
     "info": "",
     "english": "to insert",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Höhle",
     "info": "-n",
     "english": "cave",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Internetadresse",
     "info": "-n",
     "english": "internet address, URL",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "jeweilig",
     "info": "",
     "english": "respective",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "kaputtgehen",
     "info": "(geht kaputt, ist kaputtgegangen)",
     "english": "to break, to fall apart",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Loch",
     "info": "Löcher",
     "english": "hole",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Logbuch",
     "info": "-bücher",
     "english": "log book",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Minustemperaturen",
     "info": "(Plural)",
     "english": "temperatures below freezing",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Multicache",
     "info": "-s",
     "english": "multicache",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Natur",
     "info": "(Singular)",
     "english": "nature",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Naturwanderung",
     "info": "-en",
     "english": "nature hike",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Pflanze",
     "info": "-n",
     "english": "plant",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Plastik",
     "info": "(Singular)",
     "english": "plastic",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Plastikdose",
     "info": "-n",
     "english": "plastic canister",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schützen",
     "info": "",
     "english": "to protect",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "stabil",
     "info": "",
     "english": "sturdy, stable",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Temperatur",
     "info": "-en",
     "english": "temperature",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tresor",
     "info": "-e",
     "english": "vault, safe",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "und so weiter (usw.)",
     "info": "",
     "english": "and so on (etc.)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "versteckt",
     "info": "",
     "english": "hidden",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "versuchen",
     "info": "",
     "english": "to attempt",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "wasserdicht",
     "info": "",
     "english": "waterproof",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "weiterlesen",
     "info": "(liest weiter, hat weitergelesen)",
     "english": "to read on",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "zu sein",
     "info": "",
     "english": "to be closed",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Kongresszentrum",
     "info": "-zentren",
     "english": "convention center",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kulturzentrum",
     "info": "-zentren",
     "english": "cultural center",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bauen",
     "info": "",
     "english": "to build",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Besonderheit",
     "info": "-en",
     "english": "special feature",
-    "example": ""
+    "example": "",
+    "type": "noun"
   }
 ]

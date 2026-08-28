@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 
 // --- Fuzzy Matching Helpers ---
@@ -22,12 +22,10 @@ function isSimilar(input, answer) {
   if (inp === '') return false;
   if (inp === ans) return true;
   if (inp.includes(ans) || ans.includes(inp)) return true;
-  // If answer is longer than 4 chars, allow 1-2 typos
   if (ans.length > 4 && levenshteinDistance(inp, ans) <= 2) return true;
   return false;
 }
 
-// --- Shuffle ---
 const shuffleArray = (array) => {
   const arr = [...array];
   for (let i = arr.length - 1; i > 0; i--) {
@@ -51,21 +49,20 @@ function App() {
   const [showAnswer, setShowAnswer] = useState(false);
   const [isAnswered, setIsAnswered] = useState(false);
 
-  // Progress structure: { chapterIndex: { correct: [wordObjects], wrong: [wordObjects] } }
+  // NEW: filter state
+  const [filter, setFilter] = useState('all');
+
+  // Progress structure
   const [progress, setProgress] = useState({});
-  
-  // Modal state
   const [showWordModal, setShowWordModal] = useState(false);
 
-  // Load progress from localStorage
+  // Load progress
   useEffect(() => {
-    const saved = localStorage.getItem('adiboi_a2_progress_v2'); // new key
-    if (saved) {
-      setProgress(JSON.parse(saved));
-    }
+    const saved = localStorage.getItem('adiboi_a2_progress_v2');
+    if (saved) setProgress(JSON.parse(saved));
   }, []);
 
-  // Save progress to localStorage
+  // Save progress
   useEffect(() => {
     if (Object.keys(progress).length > 0) {
       localStorage.setItem('adiboi_a2_progress_v2', JSON.stringify(progress));
@@ -88,9 +85,7 @@ function App() {
       .then(data => {
         setChapters(data);
         setLoading(false);
-        // The ignore line below prevents the Netlify CI build error
-        // eslint-disable-next-line react-hooks/exhaustive-deps
-        initializeChapter(0, data);
+        // No direct initialize here – the effect below will handle it
       })
       .catch(err => {
         console.error(err);
@@ -99,9 +94,28 @@ function App() {
       });
   }, []);
 
-  const initializeChapter = (index, dataArray = chapters) => {
+  // Filtered words based on current chapter + filter
+  const filteredWords = useMemo(() => {
+    const chapterWords = chapters[currentChapterIdx] || [];
+    if (filter === 'all') return chapterWords;
+    return chapterWords.filter(word => word.type === filter);
+  }, [chapters, currentChapterIdx, filter]);
+
+  // Initialize session when chapter or filter changes
+  useEffect(() => {
+    if (chapters.length === 0) return;
+    initializeChapter(currentChapterIdx, chapters, filteredWords);
+  }, [filter, currentChapterIdx, chapters, filteredWords]);
+
+  const initializeChapter = (index, dataArray = chapters, wordList = null) => {
     if (!dataArray[index]) return;
-    const shuffled = shuffleArray(dataArray[index]);
+    const sourceWords = wordList || dataArray[index];
+    if (sourceWords.length === 0) {
+      setSessionWords([]);
+      setIsFinished(false);
+      return;
+    }
+    const shuffled = shuffleArray(sourceWords);
     setSessionWords(shuffled);
     setCurrentWordPtr(0);
     setIsFinished(false);
@@ -114,43 +128,32 @@ function App() {
   const handleSelectChapter = (index) => {
     if (index === currentChapterIdx && sessionWords.length > 0) return;
     setCurrentChapterIdx(index);
-    initializeChapter(index);
+    setFilter('all'); // Reset filter when switching chapters
   };
 
   const handleResetChapter = (index) => {
     const total = chapters[index]?.length || 0;
     const prog = progress[index] || { correct: [], wrong: [] };
-    const currentProgress = prog.correct.length;
-
-    // If progress is NOT 100% (i.e. currentProgress < total), ask for confirmation
-    if (currentProgress < total) {
-      if (!window.confirm("Are you sure you want to reset your progress for this chapter?")) {
-        return;
-      }
+    if (prog.correct.length < total) {
+      if (!window.confirm("Are you sure you want to reset your progress for this chapter?")) return;
     }
-
-    setProgress(prev => ({
-      ...prev,
-      [index]: { correct: [], wrong: [] }
-    }));
-    
+    setProgress(prev => ({ ...prev, [index]: { correct: [], wrong: [] } }));
     if (index === currentChapterIdx) {
-      initializeChapter(index);
+      initializeChapter(index, chapters, filteredWords); // Respect current filter
     }
   };
 
   const currentWord = sessionWords[currentWordPtr];
   const totalWordsInChapter = chapters[currentChapterIdx]?.length || 0;
   const progForChapter = progress[currentChapterIdx] || { correct: [], wrong: [] };
-  const percentComplete = totalWordsInChapter > 0 
-    ? Math.round((progForChapter.correct.length / totalWordsInChapter) * 100) 
+  const percentComplete = totalWordsInChapter > 0
+    ? Math.round((progForChapter.correct.length / totalWordsInChapter) * 100)
     : 0;
 
   const handleSubmit = () => {
     if (isAnswered || !currentWord) return;
     const userAnswer = inputValue.trim();
     const correctAnswer = currentWord.english;
-    
     const correct = isSimilar(userAnswer, correctAnswer);
 
     setShowAnswer(true);
@@ -158,15 +161,12 @@ function App() {
 
     setProgress(prev => {
       const chapterProg = prev[currentChapterIdx] || { correct: [], wrong: [] };
-      const newCorrect = correct 
-        ? [...chapterProg.correct, currentWord]
-        : chapterProg.correct;
-      const newWrong = !correct 
-        ? [...chapterProg.wrong, currentWord]
-        : chapterProg.wrong;
       return {
         ...prev,
-        [currentChapterIdx]: { correct: newCorrect, wrong: newWrong }
+        [currentChapterIdx]: {
+          correct: correct ? [...chapterProg.correct, currentWord] : chapterProg.correct,
+          wrong: !correct ? [...chapterProg.wrong, currentWord] : chapterProg.wrong
+        }
       };
     });
   };
@@ -179,9 +179,9 @@ function App() {
       const chapterProg = prev[currentChapterIdx] || { correct: [], wrong: [] };
       return {
         ...prev,
-        [currentChapterIdx]: { 
-          correct: chapterProg.correct, 
-          wrong: [...chapterProg.wrong, currentWord] 
+        [currentChapterIdx]: {
+          correct: chapterProg.correct,
+          wrong: [...chapterProg.wrong, currentWord]
         }
       };
     });
@@ -205,7 +205,6 @@ function App() {
 
   return (
     <div className="app">
-      {/* Sidebar */}
       <div className="sidebar-wrapper">
         <div className="sidebar-trigger"></div>
         <div className="sidebar">
@@ -216,7 +215,7 @@ function App() {
             const percent = total > 0 ? Math.round((prog.correct.length / total) * 100) : 0;
             return (
               <div key={idx} className="chapter-item">
-                <div 
+                <div
                   className={`chapter-button ${currentChapterIdx === idx ? 'active' : ''}`}
                   onClick={() => handleSelectChapter(idx)}
                 >
@@ -226,22 +225,27 @@ function App() {
                   </div>
                   <div className="progress-text">{percent}%</div>
                 </div>
-                <button 
-                  className="reset-btn" 
-                  onClick={() => handleResetChapter(idx)}
-                  title="Reset this chapter's progress"
-                >
-                  Reset
-                </button>
+                <button className="reset-btn" onClick={() => handleResetChapter(idx)} title="Reset this chapter's progress">Reset</button>
               </div>
             );
           })}
         </div>
       </div>
 
-      {/* Main Area */}
       <div className="app-container">
         <h1 className="app-title">Adiboi's German Time(A2)</h1>
+
+        {/* FILTER DROPDOWN */}
+        <div className="filter-container">
+          <label htmlFor="filter-select">Filter: </label>
+          <select id="filter-select" value={filter} onChange={(e) => setFilter(e.target.value)}>
+            <option value="all">All words</option>
+            <option value="verb">Verbs</option>
+            <option value="noun">Nouns</option>
+            <option value="adjective">Adjectives</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
 
         {/* Top Progress Bar */}
         {currentWord && !isFinished && (
@@ -258,20 +262,23 @@ function App() {
 
         {/* Game Card */}
         <div className="card">
-          {!currentWord || isFinished ? (
+          {(!currentWord || isFinished) && sessionWords.length === 0 ? (
+            <div className="chapter-complete">
+              <h2>No words of this type in this chapter</h2>
+              <button className="big-btn" onClick={() => setFilter('all')}>Show all words</button>
+            </div>
+          ) : (!currentWord || isFinished) ? (
             <div className="chapter-complete">
               <h2>🎉 Kapitel {currentChapterIdx + 1} Abgeschlossen!</h2>
               <p>Correct: {progForChapter.correct.length} / {totalWordsInChapter}</p>
-              <button className="big-btn" onClick={() => initializeChapter(currentChapterIdx)}>
-                Shuffle & Play Again
-              </button>
+              <button className="big-btn" onClick={() => initializeChapter(currentChapterIdx, chapters, filteredWords)}>Shuffle & Play Again</button>
             </div>
           ) : (
             <>
               <div className="german-word">{currentWord.german}</div>
               <div className="grammar-info">{currentWord.info}</div>
               {currentWord.example && <div className="example-sentence">"{currentWord.example}"</div>}
-              
+
               <div className="input-group">
                 <input
                   type="text"
@@ -289,13 +296,13 @@ function App() {
               {showAnswer && (
                 <div className="answer-reveal">
                   <div className="correct-answer">🇬🇧 {currentWord.english}</div>
-                   <div className={`result-message ${inputValue.trim() === '' ? 'wrong' : (isSimilar(inputValue.trim(), currentWord.english) ? 'correct' : 'wrong')}`}>
-      {inputValue.trim() === '' 
-        ? '👀 Revealed - Marked as Wrong'
-        : isSimilar(inputValue.trim(), currentWord.english) 
-          ? '✅ Correct!' 
-          : '❌ Wrong!'}
-                   </div>  
+                  <div className={`result-message ${inputValue.trim() === '' ? 'wrong' : (isSimilar(inputValue.trim(), currentWord.english) ? 'correct' : 'wrong')}`}>
+                    {inputValue.trim() === ''
+                      ? '👀 Revealed - Marked as Wrong'
+                      : isSimilar(inputValue.trim(), currentWord.english)
+                        ? '✅ Correct!'
+                        : '❌ Wrong!'}
+                  </div>
                 </div>
               )}
 
@@ -314,7 +321,7 @@ function App() {
             📖 View Learned & Failed Words
           </button>
         )}
-        
+
         {showWordModal && (
           <div className="modal-overlay" onClick={() => setShowWordModal(false)}>
             <div className="modal" onClick={(e) => e.stopPropagation()}>

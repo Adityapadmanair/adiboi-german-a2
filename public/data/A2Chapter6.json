@@ -3,858 +3,1001 @@
     "german": "Bis dann!",
     "info": "",
     "english": "Until then!",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "dabei sein",
     "info": "",
     "english": "to be involved",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "erfragen",
     "info": "",
     "english": "to ask (for s.t., to inquire)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Foyer",
     "info": "-s",
     "english": "foyer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Karte",
     "info": "-n",
     "english": "ticket",
-    "example": "(Are you buying the tickets for the concert?)"
+    "example": "(Are you buying the tickets for the concert?)",
+    "type": "noun"
   },
   {
     "german": "locker",
     "info": "",
     "english": "relaxed(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Philharmonie",
     "info": "-n",
     "english": "philharmonic",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schön",
     "info": "",
     "english": "pretty",
-    "example": "(With the bike, Peter is pretty much mobile.)"
+    "example": "(With the bike, Peter is pretty much mobile.)",
+    "type": "other"
   },
   {
     "german": "die Unsicherheit",
     "info": "-en",
     "english": "insecurity",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "vorhaben",
     "info": "(hat vor, hat vorgehabt)",
     "english": "to have s.t. planned",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Ampel",
     "info": "-n",
     "english": "traffic light",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Motor",
     "info": "-en",
     "english": "motor",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Parkplatz",
     "info": "-plätze",
     "english": "parking lot",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Polizei",
     "info": "(Singular)",
     "english": "police",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Reifen",
     "info": "-",
     "english": "tire",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Stau",
     "info": "-s",
     "english": "traffic jam",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Parkhaus",
     "info": "-häuser",
     "english": "parking garage",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Anschluss",
     "info": "Anschlüsse",
     "english": "connection",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Panne",
     "info": "-n",
     "english": "breakdown",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Sitzplatz",
     "info": "-plätze",
     "english": "seat",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Tankstelle",
     "info": "-n",
     "english": "gas station",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Verkehrsmittel",
     "info": "-",
     "english": "mode of transportation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ewig",
     "info": "",
     "english": "forever",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Kinderabteil",
     "info": "-e",
     "english": "children's section",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Mama",
     "info": "-s",
     "english": "mama",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "nervig",
     "info": "",
     "english": "annoying",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "ungeduldig",
     "info": "",
     "english": "impatient",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Chaos",
     "info": "(Singular)",
     "english": "chaos",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "genervt",
     "info": "",
     "english": "annoyed, irritated",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "höflich",
     "info": "",
     "english": "polite",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Papa",
     "info": "-s",
     "english": "papa",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "vorlesen",
     "info": "(liest vor, hat vorgelesen)",
     "english": "to read aloud",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "abnehmen",
     "info": "(nimmt ab, hat abgenommen)",
     "english": "to relieve s.o. of s.t.",
-    "example": "(We relieve you of your worries.)"
+    "example": "(We relieve you of your worries.)",
+    "type": "verb"
   },
   {
     "german": "die App",
     "info": "-s",
     "english": "application",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Bedienung",
     "info": "(Singular)",
     "english": "operation",
-    "example": "(The program is easily operated.)"
+    "example": "(The program is easily operated.)",
+    "type": "noun"
   },
   {
     "german": "der Deal",
     "info": "-s",
     "english": "deal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "eingeben",
     "info": "(gibt ein, hat eingegeben)",
     "english": "to enter, input",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "Hi!",
     "info": "",
     "english": "Hi!",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Navigationssystem",
     "info": "-e",
     "english": "navigation system",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ob",
     "info": "",
     "english": "if",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "passen",
     "info": "(Passt schon.)",
     "english": "to work out",
-    "example": "(It'll work out fine.)"
+    "example": "(It'll work out fine.)",
+    "type": "verb"
   },
   {
     "german": "die Strecke",
     "info": "-n",
     "english": "route",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "stressfrei",
     "info": "",
     "english": "stress-free",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "übermorgen",
     "info": "",
     "english": "day after tomorrow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Verkehrsapp",
     "info": "-s",
     "english": "traffic application",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Daten",
     "info": "(Plural)",
     "english": "files",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "einschalten",
     "info": "",
     "english": "to turn on",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Radarkamera",
     "info": "-s",
     "english": "radar camera",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Benzin",
     "info": "(Singular)",
     "english": "gas",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "erreichen",
     "info": "",
     "english": "to reach",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "gespannt",
     "info": "",
     "english": "curiously, eagerly",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "rechtzeitig",
     "info": "",
     "english": "on time",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Überlegung",
     "info": "-en",
     "english": "consideration",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abfliegen",
     "info": "(fliegt ab, ist abgeflogen)",
     "english": "to fly away",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Abflug",
     "info": "Abflüge",
     "english": "departing flight",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bremsen",
     "info": "",
     "english": "to brake",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Garage",
     "info": "-n",
     "english": "garage",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kennzeichen",
     "info": "-",
     "english": "license plate",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kfz",
     "info": "-",
     "english": "motor vehicle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "landen",
     "info": "(landet, ist gelandet)",
     "english": "to land",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Pkw",
     "info": "-s",
     "english": "automobile, passenger car",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Reparatur",
     "info": "-en",
     "english": "repair",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "rückwärts",
     "info": "",
     "english": "backward",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Versicherung",
     "info": "-en",
     "english": "insurance",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Wagen",
     "info": "-/Wägen",
     "english": "car",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "an ... vorbei",
     "info": "",
     "english": "past, by",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Brücke",
     "info": "-n",
     "english": "bridge",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "einverstanden",
     "info": "",
     "english": "agreed",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "entlanggehen",
     "info": "(geht entlang, ist entlanggegangen)",
     "english": "to go along",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "gegenüber",
     "info": "(+ Dat.)",
     "english": "across from",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Kinderspielplatz",
     "info": "-plätze",
     "english": "playground",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kreuzung",
     "info": "-en",
     "english": "intersection",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "noch mal",
     "info": "",
     "english": "again",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "um ... herum",
     "info": "",
     "english": "around",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "vorbeigehen",
     "info": "(an + Dat.) (geht vorbei, ist vorbeigegangen)",
     "english": "to pass by",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Wohnungsschlüssel",
     "info": "-",
     "english": "house key",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "einzeichnen",
     "info": "",
     "english": "to draw in",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Wegbeschreibung",
     "info": "-en",
     "english": "directions",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zeichnen",
     "info": "",
     "english": "to draw, sketch",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Navigationsgerät",
     "info": "-e",
     "english": "navigation device",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Zeitungsartikel",
     "info": "-",
     "english": "newspaper article",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Anbieter",
     "info": "-",
     "english": "vendor, provider",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ansonsten",
     "info": "",
     "english": "otherwise, apart from that",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "außerdem",
     "info": "",
     "english": "besides",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Carsharing",
     "info": "(Singular)",
     "english": "car sharing",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "entweder ... oder ...",
     "info": "",
     "english": "either ... or ...",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "etc.",
     "info": "",
     "english": "etc.",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Fall",
     "info": "Fälle",
     "english": "case, situation",
-    "example": "(In this case, the car is cheaper.)"
+    "example": "(In this case, the car is cheaper.)",
+    "type": "noun"
   },
   {
     "german": "flexibel",
     "info": "(flexibler, am flexibelsten)",
     "english": "flexible",
-    "example": ""
+    "example": "",
+    "type": "adjective"
   },
   {
     "german": "die Gebühr",
     "info": "-en",
     "english": "fee",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "jederzeit",
     "info": "",
     "english": "at any time",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Konzept",
     "info": "-e",
     "english": "concept",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "leihen",
     "info": "(leiht, hat geliehen)",
     "english": "to borrow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich lohnen",
     "info": "",
     "english": "to be worth",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "mieten",
     "info": "",
     "english": "to rent",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "nachdenken",
     "info": "(über + Akk.) (denkt nach, hat nachgedacht)",
     "english": "to think about, ponder",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Privatauto",
     "info": "-s",
     "english": "privately owned car",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Telefonzentrale",
     "info": "-n",
     "english": "switchboard, hotline",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "unmöglich",
     "info": "",
     "english": "impossible",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "unpraktisch",
     "info": "",
     "english": "impractical",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "weiterhelfen",
     "info": "(hilft weiter, hat weitergeholfen)",
     "english": "to help along, assist",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Wunschauto",
     "info": "-s",
     "english": "desired car",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "allgemein",
     "info": "",
     "english": "generally",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "gegen",
     "info": "(+ Akk.)",
     "english": "against",
-    "example": "(I am against cars because ...)"
+    "example": "(I am against cars because ...)",
+    "type": "verb"
   },
   {
     "german": "der Unsinn",
     "info": "(Singular)",
     "english": "nonsense",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "vertreten",
     "info": "(vertritt, hat vertreten)",
     "english": "to represent",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Stadtteilauto",
     "info": "-s",
     "english": "car sharing car; zipcar",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "etwa",
     "info": "",
     "english": "approximately",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "nehmen",
     "info": "(nimmt, hat genommen)",
     "english": "to take",
-    "example": "(I take the bus to work.)"
+    "example": "(I take the bus to work.)",
+    "type": "verb"
   },
   {
     "german": "pendeln",
     "info": "(pendelt, ist gependelt)",
     "english": "to commute",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "richtig",
     "info": "",
     "english": "properly",
-    "example": "(After a cup of coffee, I am properly awake.)"
+    "example": "(After a cup of coffee, I am properly awake.)",
+    "type": "other"
   },
   {
     "german": "die Richtung",
     "info": "-en",
     "english": "direction",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "wach",
     "info": "",
     "english": "awake",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Zugfahrt",
     "info": "-en",
     "english": "train ride",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Schlange",
     "info": "-n",
     "english": "line, queue",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "öffentlich",
     "info": "",
     "english": "public",
-    "example": "(I always take public transportation.)"
+    "example": "(I always take public transportation.)",
+    "type": "other"
   },
   {
     "german": "das Kursergebnis",
     "info": "-se",
     "english": "class result",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Begegnung",
     "info": "-en",
     "english": "encounter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Radiosendung",
     "info": "-en",
     "english": "radio program",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schriftsteller",
     "info": "-",
     "english": "writer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Sendung",
     "info": "-en",
     "english": "program, show",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "überlegen",
     "info": "",
     "english": "to think about",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Stichpunkt",
     "info": "-e",
     "english": "bullet point, key point",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Fahrradreise",
     "info": "-n",
     "english": "bicycle trip",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "befürchten",
     "info": "",
     "english": "to fear",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "durchsichtig",
     "info": "",
     "english": "transparent",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Elefant",
     "info": "-en",
     "english": "elephant",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Ersatzteil",
     "info": "-e",
     "english": "spare part",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "griffbereit",
     "info": "",
     "english": "handy, at hand",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Hinterrad",
     "info": "-räder",
     "english": "rear wheel",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Isomatte",
     "info": "-n",
     "english": "sleeping pad",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kompass",
     "info": "-e",
     "english": "compass",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "kühl",
     "info": "",
     "english": "cool",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Lenkertasche",
     "info": "-n",
     "english": "handlebar bag",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Not",
     "info": "Nöte",
     "english": "emergency",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Notizbuch",
     "info": "-bücher",
     "english": "notebook",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Seite",
     "info": "-n",
     "english": "side",
-    "example": "(A knife is stuck in the left side.)"
+    "example": "(A knife is stuck in the left side.)",
+    "type": "noun"
   },
   {
     "german": "stecken",
     "info": "",
     "english": "to be stuck, be placed",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Unterwäsche",
     "info": "(Singular)",
     "english": "underwear",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "verstauen",
     "info": "",
     "english": "to stow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Wäsche",
     "info": "(Singular)",
     "english": "here: underwear",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Werkzeug",
     "info": "-e",
     "english": "tool",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Wollmütze",
     "info": "-n",
     "english": "wool cap",
-    "example": ""
+    "example": "",
+    "type": "noun"
   }
 ]

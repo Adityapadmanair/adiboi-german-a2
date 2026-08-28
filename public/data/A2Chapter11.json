@@ -3,498 +3,581 @@
     "german": "sich engagieren",
     "info": "(für/gegen + Akk.)",
     "english": "to get involved",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "vergehen",
     "info": "(vergeht, ist vergangen)",
     "english": "to pass by",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Alkohol",
     "info": "(Singular)",
     "english": "alcohol",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Arztpraxis",
     "info": "-praxen",
     "english": "medical practice",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "betrunken",
     "info": "",
     "english": "drunk(enly)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Blut",
     "info": "(Singular)",
     "english": "blood",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bluten",
     "info": "",
     "english": "to bleed",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Krankenwagen",
     "info": "-/-wägen",
     "english": "ambulance",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "lügen",
     "info": "(lügt, hat gelogen)",
     "english": "to lie",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Rose",
     "info": "-n",
     "english": "rose",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "schwanger",
     "info": "",
     "english": "pregnant",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sterben",
     "info": "(stirbt, ist gestorben)",
     "english": "to die",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "tot",
     "info": "",
     "english": "dead",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Abschlussprüfung",
     "info": "-en",
     "english": "final exam",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Fete",
     "info": "-n",
     "english": "party",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Heimweh",
     "info": "(Singular)",
     "english": "homesickness",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kiosk",
     "info": "-e",
     "english": "kiosk",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "pensioniert",
     "info": "",
     "english": "retired",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sparen",
     "info": "",
     "english": "to save",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Bibliothek",
     "info": "-en",
     "english": "library",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Rentner",
     "info": "-",
     "english": "retiree, pensioner (m.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Rentnerin",
     "info": "-nen",
     "english": "retiree, pensioner (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Lebensphase",
     "info": "-n",
     "english": "phase of life",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "unter",
     "info": "(Unter der Woche habe ich oft keine Zeit für meine Hobbys.)",
     "english": "here: during",
-    "example": "(During the week, I often don't have time for my hobbies.)"
+    "example": "(During the week, I often don't have time for my hobbies.)",
+    "type": "other"
   },
   {
     "german": "womit",
     "info": "",
     "english": "with what",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "öfter",
     "info": "",
     "english": "more often",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "unternehmen",
     "info": "(unternimmt, hat unternommen)",
     "english": "to undertake",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "austeilen",
     "info": "",
     "english": "to distribute",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "erledigen",
     "info": "",
     "english": "to settle, handle, take care of",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "klingeln",
     "info": "",
     "english": "to ring",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "ständig",
     "info": "",
     "english": "constantly",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sich streiten",
     "info": "(streitet, hat gestritten)",
     "english": "to argue",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Mittagspause",
     "info": "-n",
     "english": "lunch break",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Kajak",
     "info": "-s",
     "english": "kayak",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kajak-Ausflug",
     "info": "-Ausflüge",
     "english": "kayak excursion",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zusammengehören",
     "info": "",
     "english": "to fit together",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "aus",
     "info": "(Von mir aus gern.)",
     "english": "here: according to",
-    "example": "(Gladly, as far as I am concerned.)"
+    "example": "(Gladly, as far as I am concerned.)",
+    "type": "other"
   },
   {
     "german": "der Gegenvorschlag",
     "info": "-vorschläge",
     "english": "counterproposal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kategorie",
     "info": "-n",
     "english": "category",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "recht haben",
     "info": "",
     "english": "to be correct",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "bestens",
     "info": "(Wie geht's dir? - Alles bestens.)",
     "english": "very well",
-    "example": "(How's it going? - All very well.)"
+    "example": "(How's it going? - All very well.)",
+    "type": "other"
   },
   {
     "german": "die Stimmung",
     "info": "-en",
     "english": "mood",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "worauf",
     "info": "",
     "english": "what + prep.",
-    "example": "(What are you looking forward to?)"
+    "example": "(What are you looking forward to?)",
+    "type": "other"
   },
   {
     "german": "diskutieren",
     "info": "(über + Akk.)",
     "english": "to discuss",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich interessieren",
     "info": "(für + Akk.)",
     "english": "to be interested in",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "sich unterhalten",
     "info": "(über + Akk.)",
     "english": "to converse",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "statt",
     "info": "",
     "english": "instead",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "betonen",
     "info": "",
     "english": "to emphasize",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Sprecher",
     "info": "-",
     "english": "speaker",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Apfelkuchen",
     "info": "-",
     "english": "apple pie",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kajaktour",
     "info": "-en",
     "english": "kayak tour",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Abenteuer",
     "info": "-",
     "english": "adventure",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "auswählen",
     "info": "",
     "english": "to select",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "erschließen",
     "info": "(erschließt, hat erschlossen)",
     "english": "to infer",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Fernsehsender",
     "info": "-",
     "english": "TV station",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Filmteam",
     "info": "-s",
     "english": "film crew",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "fließend",
     "info": "(Auf dem Bauernhof gibt es kein fließendes Wasser.)",
     "english": "running",
-    "example": "(There is no running water at the farm.)"
+    "example": "(There is no running water at the farm.)",
+    "type": "other"
   },
   {
     "german": "füllen",
     "info": "",
     "english": "to fill",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Kerzenlicht",
     "info": "-er",
     "english": "candlelight",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kontext",
     "info": "-e",
     "english": "context",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Lücke",
     "info": "-n",
     "english": "gap",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der/das Maracuja-Joghurt",
     "info": "-s",
     "english": "passion fruit yogurt",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sinnvoll",
     "info": "",
     "english": "meaningful",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "sondern auch",
     "info": "",
     "english": "but also",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Zeitreise",
     "info": "-n",
     "english": "time travel",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "zurückreisen",
     "info": "(reist zurück, ist zurückgereist)",
     "english": "to travel back",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "entwerfen",
     "info": "(entwirft, hat entworfen)",
     "english": "to design, plan",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Werbeplakat",
     "info": "-e",
     "english": "advertising poster",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Zeitpunkt",
     "info": "-e",
     "english": "moment in time",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "afrikanisch",
     "info": "",
     "english": "African",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Gold",
     "info": "(Singular)",
     "english": "gold",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Gras",
     "info": "Gräser",
     "english": "grass",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "heilen",
     "info": "",
     "english": "to heal",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Morgenstunde",
     "info": "-n",
     "english": "morningtime",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "scheinen",
     "info": "(scheint, hat geschienen)",
     "english": "to seem, appear",
-    "example": "(To the one who waits, minutes seem like years.)"
+    "example": "(To the one who waits, minutes seem like years.)",
+    "type": "verb"
   },
   {
     "german": "das Sprichwort",
     "info": "-wörter",
     "english": "proverb",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "wachsen",
     "info": "(wächst, ist gewachsen)",
     "english": "to grow",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der/die Wartende",
     "info": "-n",
     "english": "someone who waits",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Wunde",
     "info": "-n",
     "english": "wound",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abhängen",
     "info": "(hängt ab, hat abgehangen)",
     "english": "to depend",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "effektiv",
     "info": "",
     "english": "effective(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Geduld",
     "info": "(Singular)",
     "english": "patience",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "einbauen",
     "info": "",
     "english": "to incorporate",
-    "example": ""
+    "example": "",
+    "type": "verb"
   }
 ]

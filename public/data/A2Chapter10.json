@@ -3,708 +3,826 @@
     "german": "die Unterhaltung",
     "info": "-en",
     "english": "entertainment, conversation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Album",
     "info": "Alben",
     "english": "album",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "bayrisch",
     "info": "",
     "english": "Bavarian",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Bestsellerliste",
     "info": "-n",
     "english": "bestseller list",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Budget",
     "info": "-s",
     "english": "budget",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "erschienen",
     "info": "(erscheint, ist erschienen)",
     "english": "to come out, appear",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Frauenchor",
     "info": "-chöre",
     "english": "women's choir",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Hauptwerk",
     "info": "-e",
     "english": "masterpiece, main work",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Männerchor",
     "info": "-chöre",
     "english": "men's choir",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Märchenschloss",
     "info": "-schlösser",
     "english": "fairytale castle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "meistverkauft",
     "info": "",
     "english": "bestselling",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Musikgeschichte",
     "info": "(Singular)",
     "english": "history of music",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "plus",
     "info": "",
     "english": "plus",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Realität",
     "info": "-en",
     "english": "reality",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Riesenerfolg",
     "info": "-e",
     "english": "huge success",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Rolle",
     "info": "-n",
     "english": "role",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Schloss",
     "info": "Schlösser",
     "english": "castle",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Solist",
     "info": "-en",
     "english": "soloist",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Tourist",
     "info": "-en",
     "english": "tourist",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Verfilmung",
     "info": "-en",
     "english": "film adaptation",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Führung",
     "info": "-en",
     "english": "guided tour",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Amphitheater",
     "info": "-",
     "english": "amphitheater",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Arena",
     "info": "Arenen",
     "english": "arena",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "damals",
     "info": "",
     "english": "then, in those days",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "entstehen",
     "info": "(entsteht, ist entstanden)",
     "english": "to develop from, originate from",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Fernsehturm",
     "info": "-türme",
     "english": "TV tower",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Kakao",
     "info": "-s",
     "english": "cocoa",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Konzerthaus",
     "info": "-häuser",
     "english": "concert hall",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Konzertsaal",
     "info": "-säle",
     "english": "concert hall",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Lagerhaus",
     "info": "-häuser",
     "english": "warehouse",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Römerspiele",
     "info": "(Plural)",
     "english": "Roman games",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Römerzeit",
     "info": "(Singular)",
     "english": "Roman era",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Umbau",
     "info": "-ten",
     "english": "rebuilding, conversion",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Jazz",
     "info": "(Singular)",
     "english": "jazz",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Rockkonzert",
     "info": "-e",
     "english": "rock show",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Trip-Hop",
     "info": "(Singular)",
     "english": "trip-hop",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "was für ein",
     "info": "",
     "english": "what kind of a ...",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Stehplatz",
     "info": "-plätze",
     "english": "standing room",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Ticketkauf",
     "info": "-käufe",
     "english": "ticket purchase",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Überweisung",
     "info": "-en",
     "english": "bank transfer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Kasse",
     "info": "-n",
     "english": "cashier",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Konto",
     "info": "Konten",
     "english": "account",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Mehrwertsteuer",
     "info": "",
     "english": "value-added tax",
-    "example": "(Note: this is technically different from sales tax)"
+    "example": "(Note: this is technically different from sales tax)",
+    "type": "noun"
   },
   {
     "german": "netto",
     "info": "",
     "english": "net",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Quittung",
     "info": "-en",
     "english": "receipt",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Rabatt",
     "info": "-e",
     "english": "rebate, discount",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "überweisen",
     "info": "(überweist, hat überwiesen)",
     "english": "to transfer",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Käufer",
     "info": "-",
     "english": "buyer",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abgeben",
     "info": "(gibt ab, hat abgegeben)",
     "english": "to leave, give up",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "hier und da",
     "info": "",
     "english": "here and there",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "der Kontrolleur",
     "info": "-e",
     "english": "inspector",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Schirm",
     "info": "-e",
     "english": "umbrella",
-    "example": "(I never have an umbrella on me when it rains!)"
+    "example": "(I never have an umbrella on me when it rains!)",
+    "type": "noun"
   },
   {
     "german": "deutschsprachig",
     "info": "",
     "english": "German-speaking",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Lieblingslied",
     "info": "-er",
     "english": "favorite song",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "ablesen",
     "info": "(liest ab, hat abgelesen)",
     "english": "to read off",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Ansage",
     "info": "-n",
     "english": "announcement",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Einsatz",
     "info": "Einsätze",
     "english": "use, mission, deployment",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "feststellen",
     "info": "",
     "english": "to determine, discover",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Filmregisseur",
     "info": "-e",
     "english": "film director",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "glattgehen",
     "info": "(geht glatt, ist glattgegangen)",
     "english": "to go smoothly",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "hinfahren",
     "info": "(fährt hin, ist hingefahren)",
     "english": "to drive to (s.t.)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Hochzeitstag",
     "info": "-e",
     "english": "wedding",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Hörer",
     "info": "-",
     "english": "listener",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Komikerin",
     "info": "-nen",
     "english": "comedian (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Live-Show",
     "info": "-s",
     "english": "live show",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Medium",
     "info": "Medien",
     "english": "medium",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Moderatorin",
     "info": "-nen",
     "english": "moderator (f.)",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Nachrichten",
     "info": "(Plural)",
     "english": "news",
-    "example": "(Did you already hear the news today?)"
+    "example": "(Did you already hear the news today?)",
+    "type": "noun"
   },
   {
     "german": "der Nachrichtensprecher",
     "info": "-",
     "english": "news anchor, news presenter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Programm",
     "info": "-e",
     "english": "program(ming)",
-    "example": "(I think television programming is getting worse.)"
+    "example": "(I think television programming is getting worse.)",
+    "type": "noun"
   },
   {
     "german": "der Radiosprecher",
     "info": "-",
     "english": "radio presenter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "selbe",
     "info": "",
     "english": "same",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "die Stille",
     "info": "(Singular)",
     "english": "silence",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Stück",
     "info": "-e",
     "english": "play",
-    "example": "(Have you already seen the new play by Monika Gruber?)"
+    "example": "(Have you already seen the new play by Monika Gruber?)",
+    "type": "noun"
   },
   {
     "german": "der Teleprompter",
     "info": "-",
     "english": "teleprompter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die TV-Show",
     "info": "-s",
     "english": "TV show",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "verschlafen",
     "info": "(verschläft, hat verschlafen)",
     "english": "to oversleep",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "vorgehen",
     "info": "(geht vor, ist vorgegangen)",
     "english": "to come first, have precedence",
-    "example": "(I wanted to go to the soccer game, but the wedding comes first.)"
+    "example": "(I wanted to go to the soccer game, but the wedding comes first.)",
+    "type": "verb"
   },
   {
     "german": "der Prominente",
     "info": "-n",
     "english": "prominent person, celebrity director",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "drehen",
     "info": "",
     "english": "here: to shoot a film",
-    "example": "(Sönke Wortmann has shot many films.)"
+    "example": "(Sönke Wortmann has shot many films.)",
+    "type": "verb"
   },
   {
     "german": "ausverkauft",
     "info": "",
     "english": "sold out",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "das Finale",
     "info": "-s",
     "english": "final match",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Fußballfilm",
     "info": "-e",
     "english": "soccer film",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Hauptrolle",
     "info": "-n",
     "english": "leading role",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "moderieren",
     "info": "",
     "english": "to moderate",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Prominenten-Quiz",
     "info": "-s",
     "english": "celebrity quiz",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Quiz-Frage",
     "info": "-n",
     "english": "quiz question",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Punkt",
     "info": "-e",
     "english": "point",
-    "example": "(Three points for every correct answer.)"
+    "example": "(Three points for every correct answer.)",
+    "type": "noun"
   },
   {
     "german": "aufgeregt",
     "info": "",
     "english": "excited(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "drüben",
     "info": "",
     "english": "over there",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "mitlesen",
     "info": "(liest mit, hat mitgelesen)",
     "english": "to read along (with s.o.)",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Malerei",
     "info": "-en",
     "english": "painting",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abmalen",
     "info": "",
     "english": "to paint from sight, trace",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Audioguide",
     "info": "-s",
     "english": "audio guide",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Einführung",
     "info": "-en",
     "english": "introduction",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Feldhase",
     "info": "-n",
     "english": "hare",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Jahrhundert",
     "info": "-e",
     "english": "century",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "der Maler",
     "info": "-",
     "english": "painter",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "sondern",
     "info": "",
     "english": "instead",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "das Tierbild",
     "info": "-er",
     "english": "picture of an animal",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Tiermalerei",
     "info": "-en",
     "english": "painting of animals",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "das Wildschwein",
     "info": "-e",
     "english": "wild boar",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "abstrakt",
     "info": "",
     "english": "abstract(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "dumm",
     "info": "",
     "english": "dumb(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "exakt",
     "info": "",
     "english": "exactly(ly)",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "gemacht",
     "info": "",
     "english": "made",
-    "example": "(This film is really well made.)"
+    "example": "(This film is really well made.)",
+    "type": "other"
   },
   {
     "german": "das Blatt",
     "info": "Blätter",
     "english": "leaf",
-    "example": "(I love the red leaves on the trees in the fall.)"
+    "example": "(I love the red leaves on the trees in the fall.)",
+    "type": "noun"
   },
   {
     "german": "dahinter",
     "info": "",
     "english": "behind it",
-    "example": ""
+    "example": "",
+    "type": "other"
   },
   {
     "german": "deuten",
     "info": "",
     "english": "to indicate",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "die Ecke",
     "info": "-n",
     "english": "corner",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "oben",
     "info": "",
     "english": "above, at the top",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "der Vordergrund",
     "info": "-gründe",
     "english": "foreground",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "die Abbildung",
     "info": "-en",
     "english": "illustration",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "auffallen",
     "info": "(fällt auf, ist aufgefallen)",
     "english": "to stand out",
-    "example": ""
+    "example": "",
+    "type": "verb"
   },
   {
     "german": "dunkel-",
     "info": "",
     "english": "dark",
-    "example": "(Ein Wildschwein auf dem Bild ist dunkelblau.)"
+    "example": "(Ein Wildschwein auf dem Bild ist dunkelblau.)",
+    "type": "other"
   },
   {
     "german": "der Graffito",
     "info": "Graffiti",
     "english": "graffiti",
-    "example": ""
+    "example": "",
+    "type": "noun"
   },
   {
     "german": "hell-",
     "info": "",
     "english": "light",
-    "example": "(Der Himmel ist heute hellblau.)"
+    "example": "(Der Himmel ist heute hellblau.)",
+    "type": "other"
   },
   {
     "german": "der Hintergrund",
     "info": "-gründe",
     "english": "background",
-    "example": ""
+    "example": "",
+    "type": "noun"
   }
 ]
